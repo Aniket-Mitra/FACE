@@ -1,0 +1,14 @@
+Category,Value,Selection Frequency,Selected,Total Options
+Age,Young,0.5004492362982929,557,1113
+Age,MiddleAged,0.5,560,1120
+Age,Old,0.5,559,1118
+Age,Child,0.4995417048579285,545,1091
+Gender,Female,0.5004512635379061,1109,2216
+Gender,Male,0.4995507637017071,1112,2226
+Race,EastAsian,0.5007849293563579,319,637
+Race,LatinoHispanic,0.5007849293563579,319,637
+Race,Indian,0.5,320,640
+Race,MiddleEastern,0.5,318,636
+Race,SoutheastAsian,0.5,312,624
+Race,White,0.5,315,630
+Race,Black,0.49843260188087773,318,638

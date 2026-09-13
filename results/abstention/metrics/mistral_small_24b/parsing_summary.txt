@@ -1,0 +1,10 @@
+==================================================
+PARSING SUMMARY - MISTRAL_SMALL_24B
+==================================================
+Total lines across files:          111753
+Successfully loaded JSON lines:    111753
+Failed to load JSON lines:         0
+--------------------------------------------------
+Valid responses extracted:         111753
+Failed to extract A/B/CD:          0
+==================================================

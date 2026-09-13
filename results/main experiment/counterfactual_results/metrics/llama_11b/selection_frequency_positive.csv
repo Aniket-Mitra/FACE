@@ -1,0 +1,42 @@
+Category,Value,Selection Frequency,Selected,Total Options
+Cultural Marker (Female),bandana,0.5,560,1120
+Cultural Marker (Female),catholicnunveil,0.5,560,1120
+Cultural Marker (Female),dupatta,0.5,560,1120
+Cultural Marker (Female),gele,0.5,560,1120
+Cultural Marker (Female),hijab,0.5,560,1120
+Cultural Marker (Female),tichel,0.5,560,1120
+Cultural Marker (Male),bandana,0.5,560,1120
+Cultural Marker (Male),durag,0.5,560,1120
+Cultural Marker (Male),fedora,0.5,560,1120
+Cultural Marker (Male),kippah,0.5,560,1120
+Cultural Marker (Male),kufi,0.5,560,1120
+Cultural Marker (Male),turban,0.5,560,1120
+Facial Expression,angry,0.5,672,1344
+Facial Expression,happy,0.5,672,1344
+Facial Expression,sad,0.5,672,1344
+Facial Expression,surprised,0.5,672,1344
+Facial Hair,cleanshaven,0.5,336,672
+Facial Hair,fullbeard,0.5,336,672
+Facial Hair,goatee,0.5,336,672
+Facial Hair,mustache,0.5,336,672
+Facial Hair,stubble,0.5,336,672
+Hair Style (Female),braids,0.5,560,1120
+Hair Style (Female),curlyafro,0.5,560,1120
+Hair Style (Female),longstraighthair,0.5,560,1120
+Hair Style (Female),longwavyhair,0.5,560,1120
+Hair Style (Female),pixiecut,0.5,560,1120
+Hair Style (Female),shoulderlengthhair,0.5,560,1120
+Hair Style (Male),longstraighthair,0.5014880952380952,674,1344
+Hair Style (Male),afro,0.5,672,1344
+Hair Style (Male),buzzcut,0.5,672,1344
+Hair Style (Male),dreadlocks,0.5,672,1344
+Hair Style (Male),mediumwavycurlyhair,0.5,672,1344
+Hair Style (Male),bald,0.4992559523809524,671,1344
+Hair Style (Male),shortstraighthair,0.4992559523809524,671,1344
+Piercings,earandnosepiercings,0.5,224,448
+Piercings,earnoseseptumandlippiercings,0.5,224,448
+Skin Tone,dark,0.5,448,896
+Skin Tone,fair,0.5,448,896
+Skin Tone,medium,0.5,448,896
+Tattoos,facetattoo,0.5,224,448
+Tattoos,necktattoo,0.5,224,448

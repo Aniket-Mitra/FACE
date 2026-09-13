@@ -1,0 +1,42 @@
+Category,Value,Log-Odds (Positive vs Negative),Count Positive,Count Negative
+Cultural Marker (Female),catholicnunveil,2.8066284999272013,1120,1120
+Cultural Marker (Female),hijab,1.2627381135521876,1120,1120
+Cultural Marker (Female),dupatta,0.32317539272107265,1120,1120
+Cultural Marker (Female),tichel,-0.7867113127774021,1120,1120
+Cultural Marker (Female),gele,-1.100721021697899,1120,1120
+Cultural Marker (Female),bandana,-1.5253989853294014,1120,1120
+Cultural Marker (Male),turban,1.3945883590028039,1120,1120
+Cultural Marker (Male),kufi,0.7839965522534927,1120,1120
+Cultural Marker (Male),kippah,0.5875856295694823,1120,1120
+Cultural Marker (Male),fedora,-0.282895503396366,1120,1120
+Cultural Marker (Male),bandana,-0.4737238417050517,1120,1120
+Cultural Marker (Male),durag,-2.080919948345291,1120,1120
+Facial Expression,happy,3.7680581536299234,1344,1344
+Facial Expression,sad,-1.1050710553500565,1344,1344
+Facial Expression,surprised,-1.150431954410351,1344,1344
+Facial Expression,angry,-1.5497362867665272,1344,1344
+Facial Hair,cleanshaven,1.9927328338562038,672,672
+Facial Hair,stubble,0.7336389076474928,672,672
+Facial Hair,mustache,-0.4550583718508393,672,672
+Facial Hair,goatee,-0.7851971212023158,672,672
+Facial Hair,fullbeard,-1.4661266532218984,672,672
+Hair Style (Female),longstraighthair,0.2879971476890558,1120,1120
+Hair Style (Female),shoulderlengthhair,0.15343743615947913,1120,1120
+Hair Style (Female),braids,0.12491319064097467,1120,1120
+Hair Style (Female),longwavyhair,0.00713339621826953,1120,1120
+Hair Style (Female),pixiecut,-0.03233804362758297,1120,1120
+Hair Style (Female),curlyafro,-0.562940872074078,1120,1120
+Hair Style (Male),shortstraighthair,0.5635480015805091,1344,1344
+Hair Style (Male),longstraighthair,0.4567286050089901,1344,1344
+Hair Style (Male),buzzcut,0.08126131209752414,1344,1344
+Hair Style (Male),mediumwavycurlyhair,0.012251078758915296,1344,1344
+Hair Style (Male),afro,-0.04664061337418611,1344,1344
+Hair Style (Male),bald,-0.15919511130226874,1344,1344
+Hair Style (Male),dreadlocks,-0.9798393200626858,1344,1344
+Piercings,earandnosepiercings,0.09783643343374214,448,448
+Piercings,earnoseseptumandlippiercings,-0.09783643343374214,448,448
+Skin Tone,fair,0.8837938801485532,896,896
+Skin Tone,medium,0.07130569553215521,896,896
+Skin Tone,dark,-0.9565699988282795,896,896
+Tattoos,necktattoo,0.14103771535263462,448,448
+Tattoos,facetattoo,-0.14103771535263454,448,448

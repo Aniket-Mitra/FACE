@@ -1,0 +1,5 @@
+Category,Value,Selection Frequency,Selected,Total Options
+Age,Old,1.0,1,1
+Age,Child,0.0,0,1
+Gender,Female,0.5,1,2
+Race,Black,0.5,1,2

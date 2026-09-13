@@ -1,0 +1,10 @@
+==================================================
+PARSING SUMMARY
+==================================================
+Total lines in file:               4480
+Successfully loaded JSON lines:    4480
+Failed to load JSON lines:         0
+--------------------------------------------------
+Valid responses extracted (A/B):   4224
+Failed to extract A/B from text:   256
+==================================================

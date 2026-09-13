@@ -1,0 +1,10 @@
+==================================================
+PARSING SUMMARY - LLAMA4_SCOUT
+==================================================
+Total lines across files:          111772
+Successfully loaded JSON lines:    111772
+Failed to load JSON lines:         0
+--------------------------------------------------
+Valid responses extracted:         108619
+Failed to extract A/B/CD:          3153
+==================================================

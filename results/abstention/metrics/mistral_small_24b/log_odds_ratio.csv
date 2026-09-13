@@ -1,0 +1,14 @@
+Category,Value,Log-Odds (Positive vs Negative),Count Positive,Count Negative
+Age,Old,5.393627546352362,219,0
+Age,MiddleAged,3.1780538303479458,48,0
+Age,Young,0.4054651081081644,3,0
+Age,Child,-5.58724865840025,266,0
+Gender,Male,0.00930239266231341,213,0
+Gender,Female,-0.0061538655743782235,323,0
+Race,SoutheastAsian,0.0,138,0
+Race,EastAsian,0.0,78,0
+Race,MiddleEastern,0.0,70,0
+Race,Indian,0.0,106,0
+Race,White,0.0,44,0
+Race,Black,0.0,8,0
+Race,LatinoHispanic,0.0,92,0

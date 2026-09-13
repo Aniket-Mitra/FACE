@@ -1,0 +1,42 @@
+Category,Value,Selection Frequency,Selected,Total Options
+Cultural Marker (Female),catholicnunveil,0.5027372262773723,551,1096
+Cultural Marker (Female),tichel,0.5009025270758123,555,1108
+Cultural Marker (Female),bandana,0.5004484304932736,558,1115
+Cultural Marker (Female),dupatta,0.4986425339366516,551,1105
+Cultural Marker (Female),gele,0.4986351228389445,548,1099
+Cultural Marker (Female),hijab,0.4986225895316804,543,1089
+Cultural Marker (Male),bandana,0.5013428827215757,560,1117
+Cultural Marker (Male),durag,0.5,557,1114
+Cultural Marker (Male),kippah,0.5,557,1114
+Cultural Marker (Male),kufi,0.5,557,1114
+Cultural Marker (Male),fedora,0.49954586739327883,550,1101
+Cultural Marker (Male),turban,0.49910071942446044,555,1112
+Facial Expression,surprised,0.5003734129947722,670,1339
+Facial Expression,happy,0.5003723008190618,672,1343
+Facial Expression,angry,0.5,670,1340
+Facial Expression,sad,0.4992537313432836,669,1340
+Facial Hair,fullbeard,0.5044642857142857,339,672
+Facial Hair,goatee,0.5,336,672
+Facial Hair,mustache,0.5,336,672
+Facial Hair,stubble,0.5,336,672
+Facial Hair,cleanshaven,0.4955357142857143,333,672
+Hair Style (Female),longwavyhair,0.5004468275245755,560,1119
+Hair Style (Female),curlyafro,0.5,560,1120
+Hair Style (Female),longstraighthair,0.5,560,1120
+Hair Style (Female),pixiecut,0.5,560,1120
+Hair Style (Female),shoulderlengthhair,0.5,560,1120
+Hair Style (Female),braids,0.49955317247542447,559,1119
+Hair Style (Male),mediumwavycurlyhair,0.5007473841554559,670,1338
+Hair Style (Male),buzzcut,0.5003723008190618,672,1343
+Hair Style (Male),afro,0.5,670,1340
+Hair Style (Male),longstraighthair,0.5,672,1344
+Hair Style (Male),shortstraighthair,0.5,672,1344
+Hair Style (Male),bald,0.4996276991809382,671,1343
+Hair Style (Male),dreadlocks,0.4992548435171386,670,1342
+Piercings,earandnosepiercings,0.5,224,448
+Piercings,earnoseseptumandlippiercings,0.5,224,448
+Skin Tone,fair,0.5005586592178771,448,895
+Skin Tone,medium,0.5,448,896
+Skin Tone,dark,0.4994413407821229,447,895
+Tattoos,facetattoo,0.5011286681715575,222,443
+Tattoos,necktattoo,0.49887133182844245,221,443

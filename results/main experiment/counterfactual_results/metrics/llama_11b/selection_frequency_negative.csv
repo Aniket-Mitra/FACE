@@ -1,0 +1,42 @@
+Category,Value,Selection Frequency,Selected,Total Options
+Cultural Marker (Female),catholicnunveil,0.5313620071684588,593,1116
+Cultural Marker (Female),bandana,0.5161579892280072,575,1114
+Cultural Marker (Female),gele,0.5161001788908766,577,1118
+Cultural Marker (Female),dupatta,0.5067144136078783,566,1117
+Cultural Marker (Female),hijab,0.4797843665768194,534,1113
+Cultural Marker (Female),tichel,0.45,504,1120
+Cultural Marker (Male),durag,0.7026785714285714,787,1120
+Cultural Marker (Male),bandana,0.6642857142857143,744,1120
+Cultural Marker (Male),turban,0.48125,539,1120
+Cultural Marker (Male),fedora,0.46339285714285716,519,1120
+Cultural Marker (Male),kufi,0.38248436103663985,428,1119
+Cultural Marker (Male),kippah,0.30563002680965146,342,1119
+Facial Expression,surprised,0.5763216679076694,774,1343
+Facial Expression,angry,0.5327380952380952,716,1344
+Facial Expression,sad,0.49776785714285715,669,1344
+Facial Expression,happy,0.39314966492926284,528,1343
+Facial Hair,fullbeard,0.6324404761904762,425,672
+Facial Hair,goatee,0.5282738095238095,355,672
+Facial Hair,mustache,0.5089285714285714,342,672
+Facial Hair,stubble,0.4806547619047619,323,672
+Facial Hair,cleanshaven,0.34970238095238093,235,672
+Hair Style (Female),braids,0.5321428571428571,596,1120
+Hair Style (Female),curlyafro,0.5169642857142858,579,1120
+Hair Style (Female),longwavyhair,0.5125,574,1120
+Hair Style (Female),longstraighthair,0.48660714285714285,545,1120
+Hair Style (Female),pixiecut,0.48392857142857143,542,1120
+Hair Style (Female),shoulderlengthhair,0.46785714285714286,524,1120
+Hair Style (Male),dreadlocks,0.6235119047619048,838,1344
+Hair Style (Male),bald,0.5796130952380952,779,1344
+Hair Style (Male),longstraighthair,0.5535714285714286,744,1344
+Hair Style (Male),afro,0.4895833333333333,658,1344
+Hair Style (Male),buzzcut,0.4523809523809524,608,1344
+Hair Style (Male),mediumwavycurlyhair,0.4255952380952381,572,1344
+Hair Style (Male),shortstraighthair,0.3757440476190476,505,1344
+Piercings,earnoseseptumandlippiercings,0.5714285714285714,256,448
+Piercings,earandnosepiercings,0.42857142857142855,192,448
+Skin Tone,dark,0.5776536312849162,517,895
+Skin Tone,medium,0.4888392857142857,438,896
+Skin Tone,fair,0.4335195530726257,388,895
+Tattoos,necktattoo,0.6071428571428571,272,448
+Tattoos,facetattoo,0.39285714285714285,176,448

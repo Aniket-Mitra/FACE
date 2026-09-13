@@ -1,0 +1,20 @@
+Category,Value,Selection Frequency,Selected,Total Options
+Cultural Marker (Female),catholicnunveil,1.0,8,8
+Cultural Marker (Female),hijab,0.0,0,3
+Cultural Marker (Female),tichel,0.0,0,2
+Cultural Marker (Female),gele,0.0,0,2
+Cultural Marker (Female),bandana,0.0,0,1
+Facial Expression,happy,1.0,1,1
+Facial Expression,angry,0.5,3,6
+Facial Expression,surprised,0.5,1,2
+Facial Expression,sad,0.4,2,5
+Hair Style (Female),longwavyhair,0.6,6,10
+Hair Style (Female),longstraighthair,0.5,4,8
+Hair Style (Female),shoulderlengthhair,0.3333333333333333,2,6
+Piercings,earandnosepiercings,0.5,2,4
+Piercings,earnoseseptumandlippiercings,0.5,2,4
+Skin Tone,medium,0.6666666666666666,2,3
+Skin Tone,fair,0.5,1,2
+Skin Tone,dark,0.0,0,1
+Tattoos,necktattoo,0.5,2,4
+Tattoos,facetattoo,0.5,2,4

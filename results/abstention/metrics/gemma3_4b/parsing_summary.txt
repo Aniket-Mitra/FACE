@@ -1,0 +1,10 @@
+==================================================
+PARSING SUMMARY - GEMMA3_4B
+==================================================
+Total lines across files:          111776
+Successfully loaded JSON lines:    111776
+Failed to load JSON lines:         0
+--------------------------------------------------
+Valid responses extracted:         111758
+Failed to extract A/B/CD:          18
+==================================================

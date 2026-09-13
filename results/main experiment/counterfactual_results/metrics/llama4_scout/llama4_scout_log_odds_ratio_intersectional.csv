@@ -1,0 +1,1422 @@
+Category,Value,Base_Identity,Base_Race,Base_Gender,Base_Age,Intersectional_Log_Odds,Count_Positive,Count_Negative
+Cultural Marker (Female),bandana,Black_Female_Child,Black,Female,Child,-1.8325814637483102,40,40
+Cultural Marker (Female),bandana,Black_Female_MiddleAged,Black,Female,MiddleAged,-0.7731898882334817,40,40
+Cultural Marker (Female),bandana,Black_Female_Old,Black,Female,Old,-1.1786549963416462,40,40
+Cultural Marker (Female),bandana,Black_Female_Young,Black,Female,Young,-1.8325814637483102,40,40
+Cultural Marker (Female),bandana,EastAsian_Female_Child,EastAsian,Female,Child,-1.4415570397949402,38,40
+Cultural Marker (Female),bandana,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,-0.06453852113757118,40,39
+Cultural Marker (Female),bandana,EastAsian_Female_Old,EastAsian,Female,Old,-1.501428388604697,38,39
+Cultural Marker (Female),bandana,EastAsian_Female_Young,EastAsian,Female,Young,-2.045539990004155,39,40
+Cultural Marker (Female),bandana,Indian_Female_Child,Indian,Female,Child,-1.5141277326297755,38,39
+Cultural Marker (Female),bandana,Indian_Female_MiddleAged,Indian,Female,MiddleAged,-0.9555114450274365,39,38
+Cultural Marker (Female),bandana,Indian_Female_Old,Indian,Female,Old,-0.5358957230544387,39,40
+Cultural Marker (Female),bandana,Indian_Female_Young,Indian,Female,Young,-0.4933361086356429,40,38
+Cultural Marker (Female),bandana,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,-1.4954936530848826,37,40
+Cultural Marker (Female),bandana,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,-1.100092673838544,39,39
+Cultural Marker (Female),bandana,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,-0.8160453168830992,39,39
+Cultural Marker (Female),bandana,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,-1.0185695809945732,40,38
+Cultural Marker (Female),bandana,MiddleEastern_Female_Child,MiddleEastern,Female,Child,-2.120263536200091,38,40
+Cultural Marker (Female),bandana,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,-0.9382696385929302,39,40
+Cultural Marker (Female),bandana,MiddleEastern_Female_Old,MiddleEastern,Female,Old,-0.8842024173226546,40,40
+Cultural Marker (Female),bandana,MiddleEastern_Female_Young,MiddleEastern,Female,Young,-0.9710156315634015,40,40
+Cultural Marker (Female),bandana,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,-0.9808292530117262,40,40
+Cultural Marker (Female),bandana,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,-0.6851150088626811,39,39
+Cultural Marker (Female),bandana,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,-0.791127588920149,39,39
+Cultural Marker (Female),bandana,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,-1.3889645896757694,40,39
+Cultural Marker (Female),bandana,White_Female_Child,White,Female,Child,-0.9808292530117262,40,37
+Cultural Marker (Female),bandana,White_Female_MiddleAged,White,Female,MiddleAged,-1.8056485813887222,40,39
+Cultural Marker (Female),bandana,White_Female_Old,White,Female,Old,-1.5730702682632256,39,40
+Cultural Marker (Female),bandana,White_Female_Young,White,Female,Young,-0.8673386112706497,38,39
+Cultural Marker (Female),catholicnunveil,Black_Female_Child,Black,Female,Child,1.5935224571282007,40,39
+Cultural Marker (Female),catholicnunveil,Black_Female_MiddleAged,Black,Female,MiddleAged,2.810071815494522,40,39
+Cultural Marker (Female),catholicnunveil,Black_Female_Old,Black,Female,Old,0.7774883289936962,40,40
+Cultural Marker (Female),catholicnunveil,Black_Female_Young,Black,Female,Young,1.1314021114911006,40,40
+Cultural Marker (Female),catholicnunveil,EastAsian_Female_Child,EastAsian,Female,Child,1.663505133704376,39,38
+Cultural Marker (Female),catholicnunveil,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,1.4957091471057575,40,39
+Cultural Marker (Female),catholicnunveil,EastAsian_Female_Old,EastAsian,Female,Old,2.3871424810221087,39,35
+Cultural Marker (Female),catholicnunveil,EastAsian_Female_Young,EastAsian,Female,Young,1.486377819676873,38,38
+Cultural Marker (Female),catholicnunveil,Indian_Female_Child,Indian,Female,Child,0.9932517730102834,40,38
+Cultural Marker (Female),catholicnunveil,Indian_Female_MiddleAged,Indian,Female,MiddleAged,1.3581234841531944,38,38
+Cultural Marker (Female),catholicnunveil,Indian_Female_Old,Indian,Female,Old,1.4595665622262164,39,40
+Cultural Marker (Female),catholicnunveil,Indian_Female_Young,Indian,Female,Young,1.0722255334949147,39,39
+Cultural Marker (Female),catholicnunveil,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,1.07880966137193,40,40
+Cultural Marker (Female),catholicnunveil,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,2.3978952727983707,38,38
+Cultural Marker (Female),catholicnunveil,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,1.5869650565820417,40,40
+Cultural Marker (Female),catholicnunveil,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,1.6805338341178306,39,38
+Cultural Marker (Female),catholicnunveil,MiddleEastern_Female_Child,MiddleEastern,Female,Child,0.23889190828234888,39,40
+Cultural Marker (Female),catholicnunveil,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,1.580450375560848,39,40
+Cultural Marker (Female),catholicnunveil,MiddleEastern_Female_Old,MiddleEastern,Female,Old,1.141452447344602,38,40
+Cultural Marker (Female),catholicnunveil,MiddleEastern_Female_Young,MiddleEastern,Female,Young,2.6855773452501515,39,39
+Cultural Marker (Female),catholicnunveil,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,1.1314021114911006,39,40
+Cultural Marker (Female),catholicnunveil,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,1.3765245695240855,39,39
+Cultural Marker (Female),catholicnunveil,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,1.5755363607584192,36,38
+Cultural Marker (Female),catholicnunveil,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,0.5020919437972361,40,40
+Cultural Marker (Female),catholicnunveil,White_Female_Child,White,Female,Child,0.9847986372992253,40,37
+Cultural Marker (Female),catholicnunveil,White_Female_MiddleAged,White,Female,MiddleAged,2.0693912058263346,39,40
+Cultural Marker (Female),catholicnunveil,White_Female_Old,White,Female,Old,2.0087110502943437,39,39
+Cultural Marker (Female),catholicnunveil,White_Female_Young,White,Female,Young,1.9526898360406921,40,39
+Cultural Marker (Female),dupatta,Black_Female_Child,Black,Female,Child,-0.4480247225269604,40,39
+Cultural Marker (Female),dupatta,Black_Female_MiddleAged,Black,Female,MiddleAged,-1.0848820958562078,40,39
+Cultural Marker (Female),dupatta,Black_Female_Old,Black,Female,Old,0.15860503017663857,40,39
+Cultural Marker (Female),dupatta,Black_Female_Young,Black,Female,Young,0.300104592450338,40,40
+Cultural Marker (Female),dupatta,EastAsian_Female_Child,EastAsian,Female,Child,-0.39673142813940976,40,40
+Cultural Marker (Female),dupatta,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,0.21049243376065108,39,39
+Cultural Marker (Female),dupatta,EastAsian_Female_Old,EastAsian,Female,Old,0.014598799421152851,40,38
+Cultural Marker (Female),dupatta,EastAsian_Female_Young,EastAsian,Female,Young,-0.2595111954850847,38,40
+Cultural Marker (Female),dupatta,Indian_Female_Child,Indian,Female,Child,0.4116570783560855,39,39
+Cultural Marker (Female),dupatta,Indian_Female_MiddleAged,Indian,Female,MiddleAged,-0.2741987221144939,38,39
+Cultural Marker (Female),dupatta,Indian_Female_Old,Indian,Female,Old,0.0870113769896299,38,40
+Cultural Marker (Female),dupatta,Indian_Female_Young,Indian,Female,Young,-0.03509131981127017,40,39
+Cultural Marker (Female),dupatta,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,0.05406722127027579,39,40
+Cultural Marker (Female),dupatta,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,-0.6765630525444101,40,40
+Cultural Marker (Female),dupatta,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,0.083381608939051,38,40
+Cultural Marker (Female),dupatta,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,-0.1823215567939546,40,38
+Cultural Marker (Female),dupatta,MiddleEastern_Female_Child,MiddleEastern,Female,Child,0.3917259322248603,39,39
+Cultural Marker (Female),dupatta,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,-0.1112256351102245,38,40
+Cultural Marker (Female),dupatta,MiddleEastern_Female_Old,MiddleEastern,Female,Old,-0.4462871026284195,39,40
+Cultural Marker (Female),dupatta,MiddleEastern_Female_Young,MiddleEastern,Female,Young,-0.4787373092144902,40,40
+Cultural Marker (Female),dupatta,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,0.03636764417087479,39,40
+Cultural Marker (Female),dupatta,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,-1.3981288187668934,40,39
+Cultural Marker (Female),dupatta,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,0.10161017641078264,38,38
+Cultural Marker (Female),dupatta,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,0.4361020775700542,39,39
+Cultural Marker (Female),dupatta,White_Female_Child,White,Female,Child,-0.21049243376065102,39,39
+Cultural Marker (Female),dupatta,White_Female_MiddleAged,White,Female,MiddleAged,-0.14066732948997124,40,39
+Cultural Marker (Female),dupatta,White_Female_Old,White,Female,Old,-0.5808179955860256,40,40
+Cultural Marker (Female),dupatta,White_Female_Young,White,Female,Young,-0.7357857060065983,39,39
+Cultural Marker (Female),gele,Black_Female_Child,Black,Female,Child,0.7252354951114458,40,40
+Cultural Marker (Female),gele,Black_Female_MiddleAged,Black,Female,MiddleAged,0.2398454009321413,40,39
+Cultural Marker (Female),gele,Black_Female_Old,Black,Female,Old,0.7884573603642703,40,40
+Cultural Marker (Female),gele,Black_Female_Young,Black,Female,Young,0.5012561727498399,39,39
+Cultural Marker (Female),gele,EastAsian_Female_Child,EastAsian,Female,Child,0.2657031657330057,39,38
+Cultural Marker (Female),gele,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,-0.5007752879124893,40,38
+Cultural Marker (Female),gele,EastAsian_Female_Old,EastAsian,Female,Old,-0.1603426500751795,38,39
+Cultural Marker (Female),gele,EastAsian_Female_Young,EastAsian,Female,Young,0.6321112899735761,40,39
+Cultural Marker (Female),gele,Indian_Female_Child,Indian,Female,Child,-0.23889190828234882,39,40
+Cultural Marker (Female),gele,Indian_Female_MiddleAged,Indian,Female,MiddleAged,0.20294084399669038,37,39
+Cultural Marker (Female),gele,Indian_Female_Old,Indian,Female,Old,0.10536051565782635,36,40
+Cultural Marker (Female),gele,Indian_Female_Young,Indian,Female,Young,-0.31977038700328153,40,38
+Cultural Marker (Female),gele,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,-0.05129329438755046,38,39
+Cultural Marker (Female),gele,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,-0.048790164169432056,39,38
+Cultural Marker (Female),gele,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,0.4344526449814167,39,40
+Cultural Marker (Female),gele,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,-0.2932069483837508,39,39
+Cultural Marker (Female),gele,MiddleEastern_Female_Child,MiddleEastern,Female,Child,0.8329091229351039,39,40
+Cultural Marker (Female),gele,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,-0.00477327875265766,38,40
+Cultural Marker (Female),gele,MiddleEastern_Female_Old,MiddleEastern,Female,Old,0.29445257901899147,40,40
+Cultural Marker (Female),gele,MiddleEastern_Female_Young,MiddleEastern,Female,Young,0.0,39,39
+Cultural Marker (Female),gele,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,-0.2069706920686088,40,38
+Cultural Marker (Female),gele,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,0.5237290286018986,40,38
+Cultural Marker (Female),gele,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,0.15137675294453307,37,38
+Cultural Marker (Female),gele,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,-0.19105523676270922,40,40
+Cultural Marker (Female),gele,White_Female_Child,White,Female,Child,-0.3022808718729337,38,38
+Cultural Marker (Female),gele,White_Female_MiddleAged,White,Female,MiddleAged,0.15567739768105823,38,39
+Cultural Marker (Female),gele,White_Female_Old,White,Female,Old,0.0377403279828469,39,40
+Cultural Marker (Female),gele,White_Female_Young,White,Female,Young,0.044451762570833796,38,39
+Cultural Marker (Female),hijab,Black_Female_Child,Black,Female,Child,0.0,40,40
+Cultural Marker (Female),hijab,Black_Female_MiddleAged,Black,Female,MiddleAged,-0.6365768290715511,40,39
+Cultural Marker (Female),hijab,Black_Female_Old,Black,Female,Old,-0.33765871095458466,40,39
+Cultural Marker (Female),hijab,Black_Female_Young,Black,Female,Young,-0.08701137698962981,40,38
+Cultural Marker (Female),hijab,EastAsian_Female_Child,EastAsian,Female,Child,0.336472236621213,39,40
+Cultural Marker (Female),hijab,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,-0.6373423393911288,39,40
+Cultural Marker (Female),hijab,EastAsian_Female_Old,EastAsian,Female,Old,-0.09758032833886408,39,39
+Cultural Marker (Female),hijab,EastAsian_Female_Young,EastAsian,Female,Young,-0.3007541540191338,37,39
+Cultural Marker (Female),hijab,Indian_Female_Child,Indian,Female,Child,0.3448404862917294,38,39
+Cultural Marker (Female),hijab,Indian_Female_MiddleAged,Indian,Female,MiddleAged,0.0,40,40
+Cultural Marker (Female),hijab,Indian_Female_Old,Indian,Female,Old,-0.05129329438755046,39,40
+Cultural Marker (Female),hijab,Indian_Female_Young,Indian,Female,Young,0.01980262729617995,40,38
+Cultural Marker (Female),hijab,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,0.09758032833886404,39,39
+Cultural Marker (Female),hijab,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,-0.14054002277899963,40,39
+Cultural Marker (Female),hijab,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,-0.49507726679785163,39,39
+Cultural Marker (Female),hijab,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,-0.24946085963158326,40,37
+Cultural Marker (Female),hijab,MiddleEastern_Female_Child,MiddleEastern,Female,Child,0.8711702965936855,40,40
+Cultural Marker (Female),hijab,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,-0.2623642644674911,39,40
+Cultural Marker (Female),hijab,MiddleEastern_Female_Old,MiddleEastern,Female,Old,-0.09971802825874458,39,39
+Cultural Marker (Female),hijab,MiddleEastern_Female_Young,MiddleEastern,Female,Young,-0.09971802825874458,39,39
+Cultural Marker (Female),hijab,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,0.4855078157817008,40,40
+Cultural Marker (Female),hijab,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,0.0,40,40
+Cultural Marker (Female),hijab,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,-0.8131064956389245,38,38
+Cultural Marker (Female),hijab,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,0.2863654165670342,40,40
+Cultural Marker (Female),hijab,White_Female_Child,White,Female,Child,0.8303483020734302,40,39
+Cultural Marker (Female),hijab,White_Female_MiddleAged,White,Female,MiddleAged,0.35097692282409465,40,39
+Cultural Marker (Female),hijab,White_Female_Old,White,Female,Old,0.29968362843654406,39,39
+Cultural Marker (Female),hijab,White_Female_Young,White,Female,Young,0.28768207245178085,40,40
+Cultural Marker (Female),tichel,Black_Female_Child,Black,Female,Child,0.0,40,40
+Cultural Marker (Female),tichel,Black_Female_MiddleAged,Black,Female,MiddleAged,0.1923718926474561,40,40
+Cultural Marker (Female),tichel,Black_Female_Old,Black,Female,Old,-0.09574505695838428,40,40
+Cultural Marker (Female),tichel,Black_Female_Young,Black,Female,Young,0.0,39,39
+Cultural Marker (Female),tichel,EastAsian_Female_Child,EastAsian,Female,Child,-0.1498122782286601,39,40
+Cultural Marker (Female),tichel,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,-0.3560593698965179,40,39
+Cultural Marker (Female),tichel,EastAsian_Female_Old,EastAsian,Female,Old,-0.08701137698962981,40,38
+Cultural Marker (Female),tichel,EastAsian_Female_Young,EastAsian,Female,Young,0.505548566665147,38,38
+Cultural Marker (Female),tichel,Indian_Female_Child,Indian,Female,Child,-0.05129329438755046,40,39
+Cultural Marker (Female),tichel,Indian_Female_MiddleAged,Indian,Female,MiddleAged,-0.28557902225500204,38,40
+Cultural Marker (Female),tichel,Indian_Female_Old,Indian,Female,Old,-0.9357088177312568,39,40
+Cultural Marker (Female),tichel,Indian_Female_Young,Indian,Female,Young,-0.048790164169432056,39,38
+Cultural Marker (Female),tichel,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,0.2398454009321413,39,40
+Cultural Marker (Female),tichel,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,0.20219741331595115,38,38
+Cultural Marker (Female),tichel,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,-0.7339691750802003,39,40
+Cultural Marker (Female),tichel,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,0.29445257901899147,40,40
+Cultural Marker (Female),tichel,MiddleEastern_Female_Child,MiddleEastern,Female,Child,-0.491443960483605,39,39
+Cultural Marker (Female),tichel,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,-0.05129329438755046,39,40
+Cultural Marker (Female),tichel,MiddleEastern_Female_Old,MiddleEastern,Female,Old,0.14410034397375707,40,39
+Cultural Marker (Female),tichel,MiddleEastern_Female_Young,MiddleEastern,Female,Young,-0.29968362843654406,39,39
+Cultural Marker (Female),tichel,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,-0.3917259322248604,40,38
+Cultural Marker (Female),tichel,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,0.04879016416943204,40,39
+Cultural Marker (Female),tichel,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,-0.048790164169432056,40,39
+Cultural Marker (Female),tichel,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,0.34043263783730976,39,40
+Cultural Marker (Female),tichel,White_Female_Child,White,Female,Child,-0.34043263783730987,39,40
+Cultural Marker (Female),tichel,White_Female_MiddleAged,White,Female,MiddleAged,-0.2552318658657103,39,40
+Cultural Marker (Female),tichel,White_Female_Old,White,Female,Old,0.09798040836020382,40,40
+Cultural Marker (Female),tichel,White_Female_Young,White,Female,Young,-0.35097692282409454,39,40
+Cultural Marker (Male),bandana,Black_Male_Child,Black,Male,Child,-1.4701758451005926,40,39
+Cultural Marker (Male),bandana,Black_Male_MiddleAged,Black,Male,MiddleAged,-2.1816721643287345,39,40
+Cultural Marker (Male),bandana,Black_Male_Old,Black,Male,Old,-1.3809324179785052,39,40
+Cultural Marker (Male),bandana,Black_Male_Young,Black,Male,Young,-0.6079893722196383,39,39
+Cultural Marker (Male),bandana,EastAsian_Male_Child,EastAsian,Male,Child,-1.8523840910444898,38,40
+Cultural Marker (Male),bandana,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,-2.3136349291806306,39,39
+Cultural Marker (Male),bandana,EastAsian_Male_Old,EastAsian,Male,Old,-0.7968256100347868,37,36
+Cultural Marker (Male),bandana,EastAsian_Male_Young,EastAsian,Male,Young,-1.8636720508183413,38,39
+Cultural Marker (Male),bandana,Indian_Male_Child,Indian,Male,Child,-1.2570826296398843,40,38
+Cultural Marker (Male),bandana,Indian_Male_MiddleAged,Indian,Male,MiddleAged,-1.8199303461947514,40,39
+Cultural Marker (Male),bandana,Indian_Male_Old,Indian,Male,Old,-0.6190392084062235,38,38
+Cultural Marker (Male),bandana,Indian_Male_Young,Indian,Male,Young,-3.8317421741673434,39,40
+Cultural Marker (Male),bandana,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,-2.0659581913425487,40,39
+Cultural Marker (Male),bandana,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,-3.0628715763916197,40,39
+Cultural Marker (Male),bandana,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,-2.0794415416798357,40,38
+Cultural Marker (Male),bandana,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,-2.667228206581955,40,39
+Cultural Marker (Male),bandana,MiddleEastern_Male_Child,MiddleEastern,Male,Child,-2.3025850929940455,40,40
+Cultural Marker (Male),bandana,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,-3.189888287994948,40,39
+Cultural Marker (Male),bandana,MiddleEastern_Male_Old,MiddleEastern,Male,Old,-3.0661907372025525,37,40
+Cultural Marker (Male),bandana,MiddleEastern_Male_Young,MiddleEastern,Male,Young,-2.8797333596911088,40,39
+Cultural Marker (Male),bandana,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,-1.6094379124341003,40,40
+Cultural Marker (Male),bandana,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,-2.0794415416798357,40,40
+Cultural Marker (Male),bandana,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,-1.9560625205193314,39,40
+Cultural Marker (Male),bandana,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,-1.9324267987180261,40,40
+Cultural Marker (Male),bandana,White_Male_Child,White,Male,Child,-1.556193397915288,40,39
+Cultural Marker (Male),bandana,White_Male_MiddleAged,White,Male,MiddleAged,-2.184802057337662,40,39
+Cultural Marker (Male),bandana,White_Male_Old,White,Male,Old,-1.8932060855647448,39,40
+Cultural Marker (Male),bandana,White_Male_Young,White,Male,Young,-2.168237040462967,40,39
+Cultural Marker (Male),durag,Black_Male_Child,Black,Male,Child,0.6861785112438519,40,38
+Cultural Marker (Male),durag,Black_Male_MiddleAged,Black,Male,MiddleAged,-0.6931471805599453,38,40
+Cultural Marker (Male),durag,Black_Male_Old,Black,Male,Old,-0.1466034741918754,39,40
+Cultural Marker (Male),durag,Black_Male_Young,Black,Male,Young,-0.6765630525444101,40,40
+Cultural Marker (Male),durag,EastAsian_Male_Child,EastAsian,Male,Child,-0.4344526449814166,40,39
+Cultural Marker (Male),durag,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,-0.3917259322248604,39,39
+Cultural Marker (Male),durag,EastAsian_Male_Old,EastAsian,Male,Old,-0.49507726679785163,39,39
+Cultural Marker (Male),durag,EastAsian_Male_Young,EastAsian,Male,Young,-1.2809338454620645,38,39
+Cultural Marker (Male),durag,Indian_Male_Child,Indian,Male,Child,-0.8303483020734304,40,39
+Cultural Marker (Male),durag,Indian_Male_MiddleAged,Indian,Male,MiddleAged,-0.2932069483837508,39,39
+Cultural Marker (Male),durag,Indian_Male_Old,Indian,Male,Old,0.4344526449814167,39,40
+Cultural Marker (Male),durag,Indian_Male_Young,Indian,Male,Young,0.39749693845898737,39,39
+Cultural Marker (Male),durag,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,0.0425596144187959,39,40
+Cultural Marker (Male),durag,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,0.5146644000731564,40,40
+Cultural Marker (Male),durag,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,-0.6373423393911288,40,39
+Cultural Marker (Male),durag,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,-1.1676051601550612,38,39
+Cultural Marker (Male),durag,MiddleEastern_Male_Child,MiddleEastern,Male,Child,-0.8842024173226546,40,40
+Cultural Marker (Male),durag,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,0.05406722127027579,40,39
+Cultural Marker (Male),durag,MiddleEastern_Male_Old,MiddleEastern,Male,Old,0.2398454009321413,39,40
+Cultural Marker (Male),durag,MiddleEastern_Male_Young,MiddleEastern,Male,Young,-1.1394342831883648,39,40
+Cultural Marker (Male),durag,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,-0.04255961441879601,39,40
+Cultural Marker (Male),durag,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,0.2451224580329849,39,40
+Cultural Marker (Male),durag,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,0.24475702773474692,38,39
+Cultural Marker (Male),durag,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,0.0,40,40
+Cultural Marker (Male),durag,White_Male_Child,White,Male,Child,-0.05129329438755046,39,40
+Cultural Marker (Male),durag,White_Male_MiddleAged,White,Male,MiddleAged,0.5978370007556204,40,40
+Cultural Marker (Male),durag,White_Male_Old,White,Male,Old,-0.5908683314395271,36,40
+Cultural Marker (Male),durag,White_Male_Young,White,Male,Young,0.7696872576822797,40,39
+Cultural Marker (Male),fedora,Black_Male_Child,Black,Male,Child,0.5928905768202949,39,39
+Cultural Marker (Male),fedora,Black_Male_MiddleAged,Black,Male,MiddleAged,1.7047480922384253,39,40
+Cultural Marker (Male),fedora,Black_Male_Old,Black,Male,Old,0.4367176516122687,40,39
+Cultural Marker (Male),fedora,Black_Male_Young,Black,Male,Young,0.5808179955860258,40,40
+Cultural Marker (Male),fedora,EastAsian_Male_Child,EastAsian,Male,Child,0.14066732948997113,40,39
+Cultural Marker (Male),fedora,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,0.4620354595965586,38,39
+Cultural Marker (Male),fedora,EastAsian_Male_Old,EastAsian,Male,Old,-0.3510710360423657,38,39
+Cultural Marker (Male),fedora,EastAsian_Male_Young,EastAsian,Male,Young,1.2113142111843036,37,39
+Cultural Marker (Male),fedora,Indian_Male_Child,Indian,Male,Child,0.7419373447293773,40,39
+Cultural Marker (Male),fedora,Indian_Male_MiddleAged,Indian,Male,MiddleAged,-0.29391262220241704,39,39
+Cultural Marker (Male),fedora,Indian_Male_Old,Indian,Male,Old,-0.09662683568907164,40,40
+Cultural Marker (Male),fedora,Indian_Male_Young,Indian,Male,Young,0.3829922522561057,40,40
+Cultural Marker (Male),fedora,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,0.4787373092144901,40,40
+Cultural Marker (Male),fedora,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,1.0986122886681098,38,40
+Cultural Marker (Male),fedora,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,0.44118319071024353,40,39
+Cultural Marker (Male),fedora,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,0.7911275889201491,39,39
+Cultural Marker (Male),fedora,MiddleEastern_Male_Child,MiddleEastern,Male,Child,-0.2944525790189915,40,40
+Cultural Marker (Male),fedora,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,0.4855078157817008,40,40
+Cultural Marker (Male),fedora,MiddleEastern_Male_Old,MiddleEastern,Male,Old,0.5237290286018985,38,40
+Cultural Marker (Male),fedora,MiddleEastern_Male_Young,MiddleEastern,Male,Young,0.6733445532637654,40,40
+Cultural Marker (Male),fedora,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,0.18322694390876712,38,40
+Cultural Marker (Male),fedora,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,0.9382696385929302,39,40
+Cultural Marker (Male),fedora,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,0.19460724404927557,40,40
+Cultural Marker (Male),fedora,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,0.0966268356890717,40,40
+Cultural Marker (Male),fedora,White_Male_Child,White,Male,Child,0.3829922522561057,40,40
+Cultural Marker (Male),fedora,White_Male_MiddleAged,White,Male,MiddleAged,0.2398454009321413,40,39
+Cultural Marker (Male),fedora,White_Male_Old,White,Male,Old,1.3019532126861397,40,40
+Cultural Marker (Male),fedora,White_Male_Young,White,Male,Young,-0.23984540093214124,40,39
+Cultural Marker (Male),kippah,Black_Male_Child,Black,Male,Child,-0.2876820724517809,40,40
+Cultural Marker (Male),kippah,Black_Male_MiddleAged,Black,Male,MiddleAged,0.0,40,40
+Cultural Marker (Male),kippah,Black_Male_Old,Black,Male,Old,0.09531017980432493,40,40
+Cultural Marker (Male),kippah,Black_Male_Young,Black,Male,Young,0.25523186586571023,40,39
+Cultural Marker (Male),kippah,EastAsian_Male_Child,EastAsian,Male,Child,0.38776553100876354,38,40
+Cultural Marker (Male),kippah,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,0.6466271649250526,38,38
+Cultural Marker (Male),kippah,EastAsian_Male_Old,EastAsian,Male,Old,0.1031842362352308,38,38
+Cultural Marker (Male),kippah,EastAsian_Male_Young,EastAsian,Male,Young,0.7339691750802003,40,39
+Cultural Marker (Male),kippah,Indian_Male_Child,Indian,Male,Child,0.44628710262841953,40,39
+Cultural Marker (Male),kippah,Indian_Male_MiddleAged,Indian,Male,MiddleAged,1.5215997474684764,40,40
+Cultural Marker (Male),kippah,Indian_Male_Old,Indian,Male,Old,-0.24475702773474695,39,38
+Cultural Marker (Male),kippah,Indian_Male_Young,Indian,Male,Young,0.7305029671037141,40,39
+Cultural Marker (Male),kippah,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,0.7731898882334817,40,40
+Cultural Marker (Male),kippah,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,-0.09971802825874458,39,39
+Cultural Marker (Male),kippah,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,0.4787373092144901,40,40
+Cultural Marker (Male),kippah,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,1.2267122912954256,40,39
+Cultural Marker (Male),kippah,MiddleEastern_Male_Child,MiddleEastern,Male,Child,1.054937225165448,39,40
+Cultural Marker (Male),kippah,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,1.1000926738385441,39,39
+Cultural Marker (Male),kippah,MiddleEastern_Male_Old,MiddleEastern,Male,Old,0.6567795363890705,40,39
+Cultural Marker (Male),kippah,MiddleEastern_Male_Young,MiddleEastern,Male,Young,1.4217544124987604,40,40
+Cultural Marker (Male),kippah,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,0.3368723166425526,39,40
+Cultural Marker (Male),kippah,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,0.09574505695838434,40,40
+Cultural Marker (Male),kippah,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,0.3404326378373099,40,39
+Cultural Marker (Male),kippah,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,0.0,40,40
+Cultural Marker (Male),kippah,White_Male_Child,White,Male,Child,1.188008953336922,40,40
+Cultural Marker (Male),kippah,White_Male_MiddleAged,White,Male,MiddleAged,0.8774909827346679,39,38
+Cultural Marker (Male),kippah,White_Male_Old,White,Male,Old,0.7184649885442351,39,39
+Cultural Marker (Male),kippah,White_Male_Young,White,Male,Young,0.5389965007326869,39,40
+Cultural Marker (Male),kufi,Black_Male_Child,Black,Male,Child,-0.44888434606480904,40,37
+Cultural Marker (Male),kufi,Black_Male_MiddleAged,Black,Male,MiddleAged,1.3625778345025745,39,40
+Cultural Marker (Male),kufi,Black_Male_Old,Black,Male,Old,0.5358957230544388,40,39
+Cultural Marker (Male),kufi,Black_Male_Young,Black,Male,Young,0.0,39,39
+Cultural Marker (Male),kufi,EastAsian_Male_Child,EastAsian,Male,Child,0.6878701234591016,38,40
+Cultural Marker (Male),kufi,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,0.4155154439616658,40,38
+Cultural Marker (Male),kufi,EastAsian_Male_Old,EastAsian,Male,Old,0.8249409532859271,37,39
+Cultural Marker (Male),kufi,EastAsian_Male_Young,EastAsian,Male,Young,0.40344286272739666,39,39
+Cultural Marker (Male),kufi,Indian_Male_Child,Indian,Male,Child,0.5614693565847456,40,39
+Cultural Marker (Male),kufi,Indian_Male_MiddleAged,Indian,Male,MiddleAged,-0.048790164169432056,40,39
+Cultural Marker (Male),kufi,Indian_Male_Old,Indian,Male,Old,0.09531017980432493,38,40
+Cultural Marker (Male),kufi,Indian_Male_Young,Indian,Male,Young,0.09781331002244334,39,39
+Cultural Marker (Male),kufi,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,-0.6931471805599453,40,40
+Cultural Marker (Male),kufi,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,0.28768207245178085,40,40
+Cultural Marker (Male),kufi,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,0.47000362924573547,39,40
+Cultural Marker (Male),kufi,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,0.6321112899735761,39,40
+Cultural Marker (Male),kufi,MiddleEastern_Male_Child,MiddleEastern,Male,Child,1.8856912890622586,39,39
+Cultural Marker (Male),kufi,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,0.9326271511938485,39,40
+Cultural Marker (Male),kufi,MiddleEastern_Male_Old,MiddleEastern,Male,Old,1.0245043165143877,36,40
+Cultural Marker (Male),kufi,MiddleEastern_Male_Young,MiddleEastern,Male,Young,0.49144396048360495,39,39
+Cultural Marker (Male),kufi,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,0.7911275889201491,39,39
+Cultural Marker (Male),kufi,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,0.4054651081081644,38,40
+Cultural Marker (Male),kufi,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,0.8754687373538999,40,40
+Cultural Marker (Male),kufi,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,0.7070362927206124,40,40
+Cultural Marker (Male),kufi,White_Male_Child,White,Male,Child,-0.04652001563489282,40,39
+Cultural Marker (Male),kufi,White_Male_MiddleAged,White,Male,MiddleAged,-0.2863654165670341,40,40
+Cultural Marker (Male),kufi,White_Male_Old,White,Male,Old,1.07880966137193,40,40
+Cultural Marker (Male),kufi,White_Male_Young,White,Male,Young,0.0,39,39
+Cultural Marker (Male),turban,Black_Male_Child,Black,Male,Child,0.9138586269055425,39,39
+Cultural Marker (Male),turban,Black_Male_MiddleAged,Black,Male,MiddleAged,-0.1466034741918754,39,40
+Cultural Marker (Male),turban,Black_Male_Old,Black,Male,Old,0.44320543609101143,40,38
+Cultural Marker (Male),turban,Black_Male_Young,Black,Male,Young,0.44628710262841953,40,39
+Cultural Marker (Male),turban,EastAsian_Male_Child,EastAsian,Male,Child,0.9024299310819199,38,40
+Cultural Marker (Male),turban,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,0.9326271511938485,40,39
+Cultural Marker (Male),turban,EastAsian_Male_Old,EastAsian,Male,Old,0.7077459799810979,37,39
+Cultural Marker (Male),turban,EastAsian_Male_Young,EastAsian,Male,Young,0.5947071077466928,40,39
+Cultural Marker (Male),turban,Indian_Male_Child,Indian,Male,Child,0.29113869531969166,40,38
+Cultural Marker (Male),turban,Indian_Male_MiddleAged,Indian,Male,MiddleAged,0.8976566523292622,40,40
+Cultural Marker (Male),turban,Indian_Male_Old,Indian,Male,Old,0.3829922522561059,40,40
+Cultural Marker (Male),turban,Indian_Male_Young,Indian,Male,Young,1.4240346891027378,39,39
+Cultural Marker (Male),turban,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,1.2272296664902032,39,39
+Cultural Marker (Male),turban,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,0.8303483020734302,39,40
+Cultural Marker (Male),turban,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,1.1378330018213911,39,40
+Cultural Marker (Male),turban,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,0.8197099038683746,38,38
+Cultural Marker (Male),turban,MiddleEastern_Male_Child,MiddleEastern,Male,Child,0.43617769479569424,40,39
+Cultural Marker (Male),turban,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,0.14226507259327717,40,39
+Cultural Marker (Male),turban,MiddleEastern_Male_Old,MiddleEastern,Male,Old,0.14416979082957834,38,39
+Cultural Marker (Male),turban,MiddleEastern_Male_Young,MiddleEastern,Male,Young,1.0900285449767182,40,40
+Cultural Marker (Male),turban,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,0.29968362843654406,39,39
+Cultural Marker (Male),turban,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,0.2863654165670342,40,40
+Cultural Marker (Male),turban,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,0.14226507259327717,39,40
+Cultural Marker (Male),turban,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,0.9808292530117262,40,40
+Cultural Marker (Male),turban,White_Male_Child,White,Male,Child,-0.06453852113757129,39,40
+Cultural Marker (Male),turban,White_Male_MiddleAged,White,Male,MiddleAged,0.6678293725756556,39,38
+Cultural Marker (Male),turban,White_Male_Old,White,Male,Old,-0.7796776727122244,38,39
+Cultural Marker (Male),turban,White_Male_Young,White,Male,Young,0.8842024173226545,40,40
+Facial Expression,angry,Black_Female_Child,Black,Female,Child,-2.202501634437063,24,24
+Facial Expression,angry,Black_Female_MiddleAged,Black,Female,MiddleAged,-1.3068301897656438,24,23
+Facial Expression,angry,Black_Female_Old,Black,Female,Old,-1.1507282898071236,23,23
+Facial Expression,angry,Black_Female_Young,Black,Female,Young,-1.9429904389519785,23,24
+Facial Expression,angry,Black_Male_Child,Black,Male,Child,-0.9461436950238362,24,24
+Facial Expression,angry,Black_Male_MiddleAged,Black,Male,MiddleAged,-1.2237754316221159,23,24
+Facial Expression,angry,Black_Male_Old,Black,Male,Old,-1.2809338454620645,24,24
+Facial Expression,angry,Black_Male_Young,Black,Male,Young,-2.5877640352277083,24,23
+Facial Expression,angry,EastAsian_Female_Child,EastAsian,Female,Child,-0.9461436950238362,24,24
+Facial Expression,angry,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,-1.9970576602222545,24,24
+Facial Expression,angry,EastAsian_Female_Old,EastAsian,Female,Old,-0.4953214372300254,23,23
+Facial Expression,angry,EastAsian_Female_Young,EastAsian,Female,Young,-1.6345175968311239,24,24
+Facial Expression,angry,EastAsian_Male_Child,EastAsian,Male,Child,-3.7416300194994654,24,24
+Facial Expression,angry,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,-0.7111656860626235,24,23
+Facial Expression,angry,EastAsian_Male_Old,EastAsian,Male,Old,-1.6982334112172315,23,23
+Facial Expression,angry,EastAsian_Male_Young,EastAsian,Male,Young,-1.4039939382192916,24,23
+Facial Expression,angry,Indian_Female_Child,Indian,Female,Child,-2.1512083400495126,23,24
+Facial Expression,angry,Indian_Female_MiddleAged,Indian,Female,MiddleAged,-1.2327222176119217,23,23
+Facial Expression,angry,Indian_Female_Old,Indian,Female,Old,-1.3938415667552735,23,23
+Facial Expression,angry,Indian_Female_Young,Indian,Female,Young,-1.3086837584149666,24,24
+Facial Expression,angry,Indian_Male_Child,Indian,Male,Child,-2.5902671654458267,23,24
+Facial Expression,angry,Indian_Male_MiddleAged,Indian,Male,MiddleAged,-1.3086837584149669,24,24
+Facial Expression,angry,Indian_Male_Old,Indian,Male,Old,-1.2719775334399934,24,24
+Facial Expression,angry,Indian_Male_Young,Indian,Male,Young,-1.9064513123147657,23,23
+Facial Expression,angry,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,-2.847812143477369,24,24
+Facial Expression,angry,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,-1.6094379124341005,23,24
+Facial Expression,angry,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,0.07410797215372204,23,24
+Facial Expression,angry,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,-0.8983530311874877,21,24
+Facial Expression,angry,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,-1.4469189829363254,24,24
+Facial Expression,angry,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,-0.9461436950238362,24,24
+Facial Expression,angry,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,-1.809459046327456,24,24
+Facial Expression,angry,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,-1.9616585060234524,23,23
+Facial Expression,angry,MiddleEastern_Female_Child,MiddleEastern,Female,Child,-3.1895614371994254,23,24
+Facial Expression,angry,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,-1.2396908869280152,24,23
+Facial Expression,angry,MiddleEastern_Female_Old,MiddleEastern,Female,Old,-0.864418901167315,23,23
+Facial Expression,angry,MiddleEastern_Female_Young,MiddleEastern,Female,Young,-1.809459046327456,24,24
+Facial Expression,angry,MiddleEastern_Male_Child,MiddleEastern,Male,Child,-0.6241543090729939,24,24
+Facial Expression,angry,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,-0.7295148247308203,23,24
+Facial Expression,angry,MiddleEastern_Male_Old,MiddleEastern,Male,Old,-1.1507282898071236,23,23
+Facial Expression,angry,MiddleEastern_Male_Young,MiddleEastern,Male,Young,-1.641074997377283,23,22
+Facial Expression,angry,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,-2.4079456086518722,24,24
+Facial Expression,angry,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,-1.564702018592709,23,24
+Facial Expression,angry,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,-1.2113529116235586,24,23
+Facial Expression,angry,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,-2.2460147415056513,24,24
+Facial Expression,angry,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,-2.3566523142643216,23,24
+Facial Expression,angry,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,-1.8399615710459327,24,24
+Facial Expression,angry,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,-1.8399615710459327,24,24
+Facial Expression,angry,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,-1.4469189829363254,24,24
+Facial Expression,angry,White_Female_Child,White,Female,Child,-2.379546134130174,23,24
+Facial Expression,angry,White_Female_MiddleAged,White,Female,MiddleAged,-0.40546510810816444,24,23
+Facial Expression,angry,White_Female_Old,White,Female,Old,-1.1974581233047423,22,24
+Facial Expression,angry,White_Female_Young,White,Female,Young,-0.9808292530117262,24,22
+Facial Expression,angry,White_Male_Child,White,Male,Child,-2.4336133554004498,24,24
+Facial Expression,angry,White_Male_MiddleAged,White,Male,MiddleAged,-0.9461436950238362,24,24
+Facial Expression,angry,White_Male_Old,White,Male,Old,-1.468532459356863,24,24
+Facial Expression,angry,White_Male_Young,White,Male,Young,-2.174751721484161,24,24
+Facial Expression,happy,Black_Female_Child,Black,Female,Child,4.5217885770490405,24,24
+Facial Expression,happy,Black_Female_MiddleAged,Black,Female,MiddleAged,5.703782474656201,24,24
+Facial Expression,happy,Black_Female_Old,Black,Female,Old,2.4585198946148052,24,23
+Facial Expression,happy,Black_Female_Young,Black,Female,Young,5.703782474656201,24,24
+Facial Expression,happy,Black_Male_Child,Black,Male,Child,2.174751721484161,24,24
+Facial Expression,happy,Black_Male_MiddleAged,Black,Male,MiddleAged,2.0710732920093196,24,24
+Facial Expression,happy,Black_Male_Old,Black,Male,Old,2.6284189314102027,23,24
+Facial Expression,happy,Black_Male_Young,Black,Male,Young,3.4094961844768505,24,24
+Facial Expression,happy,EastAsian_Female_Child,EastAsian,Female,Child,2.1465808445174646,23,24
+Facial Expression,happy,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,4.5217885770490405,24,24
+Facial Expression,happy,EastAsian_Female_Old,EastAsian,Female,Old,3.3718829939933803,24,22
+Facial Expression,happy,EastAsian_Female_Young,EastAsian,Female,Young,2.4423470353692047,24,23
+Facial Expression,happy,EastAsian_Male_Child,EastAsian,Male,Child,2.506885556506776,24,24
+Facial Expression,happy,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,3.4834354798991276,24,24
+Facial Expression,happy,EastAsian_Male_Old,EastAsian,Male,Old,2.847812143477369,23,23
+Facial Expression,happy,EastAsian_Male_Young,EastAsian,Male,Young,2.330755969960742,23,23
+Facial Expression,happy,Indian_Female_Child,Indian,Female,Child,4.923623917106626,24,24
+Facial Expression,happy,Indian_Female_MiddleAged,Indian,Female,MiddleAged,3.4408758654803315,23,24
+Facial Expression,happy,Indian_Female_Old,Indian,Female,Old,4.5217885770490405,24,24
+Facial Expression,happy,Indian_Female_Young,Indian,Female,Young,5.214935757608986,23,24
+Facial Expression,happy,Indian_Male_Child,Indian,Male,Child,3.871201010907891,24,23
+Facial Expression,happy,Indian_Male_MiddleAged,Indian,Male,MiddleAged,4.43477720005941,23,23
+Facial Expression,happy,Indian_Male_Old,Indian,Male,Old,3.240854731586976,24,24
+Facial Expression,happy,Indian_Male_Young,Indian,Male,Young,4.564348191467836,23,23
+Facial Expression,happy,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,3.4719664525503626,24,24
+Facial Expression,happy,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,4.613138355637268,23,24
+Facial Expression,happy,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,4.189654742026425,24,24
+Facial Expression,happy,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,4.570578741218473,22,24
+Facial Expression,happy,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,2.521274293958875,22,23
+Facial Expression,happy,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,2.1484344131667874,24,23
+Facial Expression,happy,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,2.330755969960742,23,23
+Facial Expression,happy,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,5.255757752129241,24,24
+Facial Expression,happy,MiddleEastern_Female_Child,MiddleEastern,Female,Child,4.653960350157523,24,24
+Facial Expression,happy,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,2.0104486701928845,24,23
+Facial Expression,happy,MiddleEastern_Female_Old,MiddleEastern,Female,Old,2.5649493574615367,24,23
+Facial Expression,happy,MiddleEastern_Female_Young,MiddleEastern,Female,Young,4.793722292532682,22,23
+Facial Expression,happy,MiddleEastern_Male_Child,MiddleEastern,Male,Child,3.0354107573721674,24,24
+Facial Expression,happy,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,2.6390573296152584,24,24
+Facial Expression,happy,MiddleEastern_Male_Old,MiddleEastern,Male,Old,3.060270794691562,24,23
+Facial Expression,happy,MiddleEastern_Male_Young,MiddleEastern,Male,Young,4.882801922586371,24,22
+Facial Expression,happy,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,4.653960350157523,24,24
+Facial Expression,happy,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,5.662960480135946,23,24
+Facial Expression,happy,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,3.196402969016142,23,24
+Facial Expression,happy,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,5.255757752129241,24,24
+Facial Expression,happy,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,4.5217885770490405,24,24
+Facial Expression,happy,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,3.0354107573721674,24,24
+Facial Expression,happy,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,3.6888794541139363,24,24
+Facial Expression,happy,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,3.4834354798991276,24,24
+Facial Expression,happy,White_Female_Child,White,Female,Child,2.9813435361018916,24,23
+Facial Expression,happy,White_Female_MiddleAged,White,Female,MiddleAged,4.106179019869104,24,22
+Facial Expression,happy,White_Female_Old,White,Female,Old,2.3470368555648795,24,24
+Facial Expression,happy,White_Female_Young,White,Female,Young,3.6951100038645723,24,23
+Facial Expression,happy,White_Male_Child,White,Male,Child,3.6463198396951406,23,24
+Facial Expression,happy,White_Male_MiddleAged,White,Male,MiddleAged,3.0397491589707655,24,22
+Facial Expression,happy,White_Male_Old,White,Male,Old,3.0354107573721674,24,24
+Facial Expression,happy,White_Male_Young,White,Male,Young,4.5217885770490405,24,24
+Facial Expression,sad,Black_Female_Child,Black,Female,Child,-1.809459046327456,24,24
+Facial Expression,sad,Black_Female_MiddleAged,Black,Female,MiddleAged,-1.957744606702316,24,23
+Facial Expression,sad,Black_Female_Old,Black,Female,Old,-0.3254224004346281,23,23
+Facial Expression,sad,Black_Female_Young,Black,Female,Young,-1.349926716949016,23,23
+Facial Expression,sad,Black_Male_Child,Black,Male,Child,-0.3101549283038396,24,24
+Facial Expression,sad,Black_Male_MiddleAged,Black,Male,MiddleAged,-0.4700036292457356,24,24
+Facial Expression,sad,Black_Male_Old,Black,Male,Old,-0.7308875085427924,24,23
+Facial Expression,sad,Black_Male_Young,Black,Male,Young,-0.31015492830383945,24,24
+Facial Expression,sad,EastAsian_Female_Child,EastAsian,Female,Child,-0.8109302162163288,24,24
+Facial Expression,sad,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,0.0,24,24
+Facial Expression,sad,EastAsian_Female_Old,EastAsian,Female,Old,-0.8338145100499166,23,23
+Facial Expression,sad,EastAsian_Female_Young,EastAsian,Female,Young,-0.5166907432183888,23,24
+Facial Expression,sad,EastAsian_Male_Child,EastAsian,Male,Child,0.790139446547255,24,24
+Facial Expression,sad,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,-0.6567795363890705,24,24
+Facial Expression,sad,EastAsian_Male_Old,EastAsian,Male,Old,-0.6931471805599453,24,22
+Facial Expression,sad,EastAsian_Male_Young,EastAsian,Male,Young,-0.7111656860626236,23,24
+Facial Expression,sad,Indian_Female_Child,Indian,Female,Child,-1.957744606702316,24,23
+Facial Expression,sad,Indian_Female_MiddleAged,Indian,Female,MiddleAged,-0.620309856607679,24,24
+Facial Expression,sad,Indian_Female_Old,Indian,Female,Old,-0.464305608131098,24,24
+Facial Expression,sad,Indian_Female_Young,Indian,Female,Young,-0.40546510810816444,23,24
+Facial Expression,sad,Indian_Male_Child,Indian,Male,Child,-0.48550781578170077,23,23
+Facial Expression,sad,Indian_Male_MiddleAged,Indian,Male,MiddleAged,-1.6218604324326575,24,24
+Facial Expression,sad,Indian_Male_Old,Indian,Male,Old,-0.6359887667199967,24,24
+Facial Expression,sad,Indian_Male_Young,Indian,Male,Young,0.49532143723002553,23,23
+Facial Expression,sad,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,-0.9461436950238362,24,24
+Facial Expression,sad,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,-0.4700036292457356,24,24
+Facial Expression,sad,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,-1.2809338454620642,24,24
+Facial Expression,sad,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,-1.2163953243244932,23,24
+Facial Expression,sad,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,-0.45198512374305727,22,23
+Facial Expression,sad,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,-1.0453677741492975,24,23
+Facial Expression,sad,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,0.0,23,23
+Facial Expression,sad,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,-1.3862943611198906,24,23
+Facial Expression,sad,MiddleEastern_Female_Child,MiddleEastern,Female,Child,0.9184861224375909,23,24
+Facial Expression,sad,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,-0.780158557549575,24,24
+Facial Expression,sad,MiddleEastern_Female_Old,MiddleEastern,Female,Old,-0.8754687373538999,24,23
+Facial Expression,sad,MiddleEastern_Female_Young,MiddleEastern,Female,Young,-0.780158557549575,24,24
+Facial Expression,sad,MiddleEastern_Male_Child,MiddleEastern,Male,Child,-0.9985288301111273,24,24
+Facial Expression,sad,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,-0.9444616088408514,23,24
+Facial Expression,sad,MiddleEastern_Male_Old,MiddleEastern,Male,Old,-1.0245043165143877,23,23
+Facial Expression,sad,MiddleEastern_Male_Young,MiddleEastern,Male,Young,-1.0453677741492975,23,24
+Facial Expression,sad,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,-1.468532459356863,24,24
+Facial Expression,sad,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,-1.2719775334399934,24,24
+Facial Expression,sad,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,-1.6345175968311239,24,24
+Facial Expression,sad,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,-1.1059923959657323,24,24
+Facial Expression,sad,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,-1.1210851445201684,24,24
+Facial Expression,sad,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,-0.15984870094189602,24,24
+Facial Expression,sad,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,-1.5141277326297755,24,24
+Facial Expression,sad,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,-0.6567795363890705,24,24
+Facial Expression,sad,White_Female_Child,White,Female,Child,-0.4689346820568304,24,22
+Facial Expression,sad,White_Female_MiddleAged,White,Female,MiddleAged,-0.06453852113757118,24,23
+Facial Expression,sad,White_Female_Old,White,Female,Old,-0.6359887667199967,24,24
+Facial Expression,sad,White_Female_Young,White,Female,Young,-0.8909729238898653,24,23
+Facial Expression,sad,White_Male_Child,White,Male,Child,-1.3862943611198906,23,24
+Facial Expression,sad,White_Male_MiddleAged,White,Male,MiddleAged,0.28768207245178085,24,21
+Facial Expression,sad,White_Male_Old,White,Male,Old,-1.2809338454620645,24,24
+Facial Expression,sad,White_Male_Young,White,Male,Young,-0.46430560813109784,24,24
+Facial Expression,surprised,Black_Female_Child,Black,Female,Child,0.4643056081310978,24,24
+Facial Expression,surprised,Black_Female_MiddleAged,Black,Female,MiddleAged,-0.6359887667199967,24,24
+Facial Expression,surprised,Black_Female_Old,Black,Female,Old,-0.7111656860626235,24,23
+Facial Expression,surprised,Black_Female_Young,Black,Female,Young,-0.5596157879354228,24,23
+Facial Expression,surprised,Black_Male_Child,Black,Male,Child,-0.6241543090729939,24,24
+Facial Expression,surprised,Black_Male_MiddleAged,Black,Male,MiddleAged,-0.23419338750079477,23,24
+Facial Expression,surprised,Black_Male_Old,Black,Male,Old,-0.1611193491433517,23,23
+Facial Expression,surprised,Black_Male_Young,Black,Male,Young,-0.23419338750079477,24,23
+Facial Expression,surprised,EastAsian_Female_Child,EastAsian,Female,Child,0.07410797215372204,23,24
+Facial Expression,surprised,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,-1.4469189829363254,24,24
+Facial Expression,surprised,EastAsian_Female_Old,EastAsian,Female,Old,-1.6451559950361796,24,22
+Facial Expression,surprised,EastAsian_Female_Young,EastAsian,Female,Young,0.0,23,23
+Facial Expression,surprised,EastAsian_Male_Child,EastAsian,Male,Child,0.15984870094189604,24,24
+Facial Expression,surprised,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,-1.414465238086587,24,23
+Facial Expression,surprised,EastAsian_Male_Old,EastAsian,Male,Old,0.1823215567939546,22,24
+Facial Expression,surprised,EastAsian_Male_Young,EastAsian,Male,Young,0.0,24,24
+Facial Expression,surprised,Indian_Female_Child,Indian,Female,Child,0.4823241136337761,23,23
+Facial Expression,surprised,Indian_Female_MiddleAged,Indian,Female,MiddleAged,-1.0296194171811581,24,23
+Facial Expression,surprised,Indian_Female_Old,Indian,Female,Old,-1.791759469228055,23,23
+Facial Expression,surprised,Indian_Female_Young,Indian,Female,Young,-1.9050881545350582,24,24
+Facial Expression,surprised,Indian_Male_Child,Indian,Male,Child,-0.2006706954621511,22,24
+Facial Expression,surprised,Indian_Male_MiddleAged,Indian,Male,MiddleAged,-0.33420208808667373,23,23
+Facial Expression,surprised,Indian_Male_Old,Indian,Male,Old,-0.7801585575495752,24,24
+Facial Expression,surprised,Indian_Male_Young,Indian,Male,Young,-1.9064513123147657,23,23
+Facial Expression,surprised,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,0.4643056081310978,24,24
+Facial Expression,surprised,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,-1.1526795099383855,24,24
+Facial Expression,surprised,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,-2.1972245773362196,23,24
+Facial Expression,surprised,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,-1.0498221244986776,24,24
+Facial Expression,surprised,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,-0.15415067982725836,22,24
+Facial Expression,surprised,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,0.0,24,24
+Facial Expression,surprised,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,-0.31015492830383945,24,24
+Facial Expression,surprised,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,-0.4083100602403956,23,22
+Facial Expression,surprised,MiddleEastern_Female_Child,MiddleEastern,Female,Child,-1.4469189829363254,24,24
+Facial Expression,surprised,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,0.15415067982725836,24,24
+Facial Expression,surprised,MiddleEastern_Female_Old,MiddleEastern,Female,Old,-0.1643030512912763,23,23
+Facial Expression,surprised,MiddleEastern_Female_Young,MiddleEastern,Female,Young,-0.5776342934381009,22,23
+Facial Expression,surprised,MiddleEastern_Male_Child,MiddleEastern,Male,Child,-0.9650808960435872,24,24
+Facial Expression,surprised,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,-0.3101549283038396,24,24
+Facial Expression,surprised,MiddleEastern_Male_Old,MiddleEastern,Male,Old,-0.25642952894767645,22,23
+Facial Expression,surprised,MiddleEastern_Male_Young,MiddleEastern,Male,Young,-0.780158557549575,24,24
+Facial Expression,surprised,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,0.4643056081310979,24,24
+Facial Expression,surprised,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,-0.8209805520698302,22,24
+Facial Expression,surprised,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,0.1600854153470727,23,23
+Facial Expression,surprised,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,-0.31585294941847714,24,24
+Facial Expression,surprised,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,-0.0953101798043249,23,24
+Facial Expression,surprised,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,-0.6359887667199967,24,24
+Facial Expression,surprised,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,0.31585294941847725,24,24
+Facial Expression,surprised,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,-0.620309856607679,24,24
+Facial Expression,surprised,White_Female_Child,White,Female,Child,0.1611193491433518,23,23
+Facial Expression,surprised,White_Female_MiddleAged,White,Female,MiddleAged,-2.6728706939810367,24,24
+Facial Expression,surprised,White_Female_Old,White,Female,Old,-0.1670540846631662,22,24
+Facial Expression,surprised,White_Female_Young,White,Female,Young,-1.1974581233047423,24,22
+Facial Expression,surprised,White_Male_Child,White,Male,Child,0.8443781502838689,24,24
+Facial Expression,surprised,White_Male_MiddleAged,White,Male,MiddleAged,-2.0222831278398874,24,23
+Facial Expression,surprised,White_Male_Old,White,Male,Old,0.15415067982725836,24,24
+Facial Expression,surprised,White_Male_Young,White,Male,Young,-0.9985288301111273,24,24
+Facial Hair,cleanshaven,Black_Male_MiddleAged,Black,Male,MiddleAged,-0.1784076574728184,32,31
+Facial Hair,cleanshaven,Black_Male_Old,Black,Male,Old,-0.29605032212229765,32,31
+Facial Hair,cleanshaven,Black_Male_Young,Black,Male,Young,-1.2893020951325809,32,31
+Facial Hair,cleanshaven,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,0.3566749439387324,32,32
+Facial Hair,cleanshaven,EastAsian_Male_Old,EastAsian,Male,Old,-0.4795730802618862,32,32
+Facial Hair,cleanshaven,EastAsian_Male_Young,EastAsian,Male,Young,0.2840523044012023,32,32
+Facial Hair,cleanshaven,Indian_Male_MiddleAged,Indian,Male,MiddleAged,0.1943941380282238,32,31
+Facial Hair,cleanshaven,Indian_Male_Old,Indian,Male,Old,-0.9360933591703348,32,31
+Facial Hair,cleanshaven,Indian_Male_Young,Indian,Male,Young,-0.28995222098632,30,32
+Facial Hair,cleanshaven,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,-0.1498122782286601,30,30
+Facial Hair,cleanshaven,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,-0.6620565934899143,32,31
+Facial Hair,cleanshaven,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,0.24946085963158324,32,32
+Facial Hair,cleanshaven,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,-0.7159618583261166,32,32
+Facial Hair,cleanshaven,MiddleEastern_Male_Old,MiddleEastern,Male,Old,-0.1823215567939546,32,31
+Facial Hair,cleanshaven,MiddleEastern_Male_Young,MiddleEastern,Male,Young,0.044451762570833796,31,32
+Facial Hair,cleanshaven,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,0.11778303565638346,30,32
+Facial Hair,cleanshaven,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,-0.5455111817538808,32,31
+Facial Hair,cleanshaven,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,-0.5420781672700953,32,32
+Facial Hair,cleanshaven,White_Male_MiddleAged,White,Male,MiddleAged,-0.8556661100577202,31,30
+Facial Hair,cleanshaven,White_Male_Old,White,Male,Old,-0.41729956575516725,32,31
+Facial Hair,cleanshaven,White_Male_Young,White,Male,Young,0.19068980646447117,31,30
+Facial Hair,fullbeard,Black_Male_MiddleAged,Black,Male,MiddleAged,0.24294617861038958,32,30
+Facial Hair,fullbeard,Black_Male_Old,Black,Male,Old,1.0577902941478545,32,31
+Facial Hair,fullbeard,Black_Male_Young,Black,Male,Young,0.664976303593249,32,32
+Facial Hair,fullbeard,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,0.0,32,32
+Facial Hair,fullbeard,EastAsian_Male_Old,EastAsian,Male,Old,-0.35667494393873245,32,32
+Facial Hair,fullbeard,EastAsian_Male_Young,EastAsian,Male,Young,-0.13580154115906176,30,30
+Facial Hair,fullbeard,Indian_Male_MiddleAged,Indian,Male,MiddleAged,0.9571127263944101,32,29
+Facial Hair,fullbeard,Indian_Male_Old,Indian,Male,Old,1.1468143904859873,32,30
+Facial Hair,fullbeard,Indian_Male_Young,Indian,Male,Young,0.4643056081310979,30,31
+Facial Hair,fullbeard,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,0.18012616623051902,31,30
+Facial Hair,fullbeard,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,0.5714502455824256,31,30
+Facial Hair,fullbeard,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,-0.1228981363231539,32,32
+Facial Hair,fullbeard,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,0.6390799592896697,32,32
+Facial Hair,fullbeard,MiddleEastern_Male_Old,MiddleEastern,Male,Old,0.06899287148695142,32,31
+Facial Hair,fullbeard,MiddleEastern_Male_Young,MiddleEastern,Male,Young,0.12883287184296838,31,31
+Facial Hair,fullbeard,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,0.41894845844545137,31,32
+Facial Hair,fullbeard,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,0.5401977020783212,32,31
+Facial Hair,fullbeard,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,0.527527473383922,31,31
+Facial Hair,fullbeard,White_Male_MiddleAged,White,Male,MiddleAged,-0.0540672212702757,31,32
+Facial Hair,fullbeard,White_Male_Old,White,Male,Old,0.42381424677636087,32,31
+Facial Hair,fullbeard,White_Male_Young,White,Male,Young,0.3566749439387324,32,30
+Facial Hair,goatee,Black_Male_MiddleAged,Black,Male,MiddleAged,-0.41729956575516725,32,31
+Facial Hair,goatee,Black_Male_Old,Black,Male,Old,0.7419373447293773,31,31
+Facial Hair,goatee,Black_Male_Young,Black,Male,Young,0.36464311358790924,31,31
+Facial Hair,goatee,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,-0.41729956575516725,31,32
+Facial Hair,goatee,EastAsian_Male_Old,EastAsian,Male,Old,0.37015829427601954,31,31
+Facial Hair,goatee,EastAsian_Male_Young,EastAsian,Male,Young,0.6131044728864088,31,31
+Facial Hair,goatee,Indian_Male_MiddleAged,Indian,Male,MiddleAged,-0.5930637220029629,32,32
+Facial Hair,goatee,Indian_Male_Old,Indian,Male,Old,-0.35667494393873245,32,30
+Facial Hair,goatee,Indian_Male_Young,Indian,Male,Young,-0.05715841383994864,31,32
+Facial Hair,goatee,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,0.9202046311952914,31,31
+Facial Hair,goatee,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,-0.47277755612846073,32,32
+Facial Hair,goatee,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,-0.5417704276154123,31,32
+Facial Hair,goatee,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,0.25131442828090617,30,32
+Facial Hair,goatee,MiddleEastern_Male_Old,MiddleEastern,Male,Old,-0.5596157879354228,32,31
+Facial Hair,goatee,MiddleEastern_Male_Young,MiddleEastern,Male,Young,0.0,32,32
+Facial Hair,goatee,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,-0.12306009275722725,31,31
+Facial Hair,goatee,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,0.4795730802618863,32,32
+Facial Hair,goatee,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,0.5973561159182699,32,32
+Facial Hair,goatee,White_Male_MiddleAged,White,Male,MiddleAged,0.3074846997479607,31,30
+Facial Hair,goatee,White_Male_Old,White,Male,Old,-0.11778303565638351,32,32
+Facial Hair,goatee,White_Male_Young,White,Male,Young,0.0,32,32
+Facial Hair,mustache,Black_Male_MiddleAged,Black,Male,MiddleAged,0.0,32,32
+Facial Hair,mustache,Black_Male_Old,Black,Male,Old,-1.6175680385173508,31,31
+Facial Hair,mustache,Black_Male_Young,Black,Male,Young,-0.42316468520756534,31,32
+Facial Hair,mustache,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,0.17435338714477794,31,32
+Facial Hair,mustache,EastAsian_Male_Old,EastAsian,Male,Old,0.5401977020783212,32,31
+Facial Hair,mustache,EastAsian_Male_Young,EastAsian,Male,Young,-0.4307829160924544,32,31
+Facial Hair,mustache,Indian_Male_MiddleAged,Indian,Male,MiddleAged,-0.4189484584454514,32,31
+Facial Hair,mustache,Indian_Male_Old,Indian,Male,Old,0.2447570277347471,31,31
+Facial Hair,mustache,Indian_Male_Young,Indian,Male,Young,0.5389965007326869,32,31
+Facial Hair,mustache,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,-0.7849547298130681,32,31
+Facial Hair,mustache,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,0.5417704276154123,32,31
+Facial Hair,mustache,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,0.6620565934899143,31,32
+Facial Hair,mustache,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,-0.1823215567939546,31,32
+Facial Hair,mustache,MiddleEastern_Male_Old,MiddleEastern,Male,Old,0.9115174531214975,32,31
+Facial Hair,mustache,MiddleEastern_Male_Young,MiddleEastern,Male,Young,-0.24294617861038947,31,31
+Facial Hair,mustache,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,-0.12883287184296832,31,31
+Facial Hair,mustache,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,0.3566749439387324,32,32
+Facial Hair,mustache,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,0.06062462181643484,31,32
+Facial Hair,mustache,White_Male_MiddleAged,White,Male,MiddleAged,0.4989911661189878,31,31
+Facial Hair,mustache,White_Male_Old,White,Male,Old,0.41871033485818504,31,32
+Facial Hair,mustache,White_Male_Young,White,Male,Young,-0.4877032063451364,31,31
+Facial Hair,stubble,Black_Male_MiddleAged,Black,Male,MiddleAged,0.3690974639372895,32,30
+Facial Hair,stubble,Black_Male_Old,Black,Male,Old,0.0,32,32
+Facial Hair,stubble,Black_Male_Young,Black,Male,Young,0.5930637220029628,32,32
+Facial Hair,stubble,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,-0.1186057424078469,32,32
+Facial Hair,stubble,EastAsian_Male_Old,EastAsian,Male,Old,-0.060624621816434854,31,30
+Facial Hair,stubble,EastAsian_Male_Young,EastAsian,Male,Young,-0.2960503221222975,31,32
+Facial Hair,stubble,Indian_Male_MiddleAged,Indian,Male,MiddleAged,-0.06453852113757118,32,31
+Facial Hair,stubble,Indian_Male_Old,Indian,Male,Old,-0.060624621816434854,31,32
+Facial Hair,stubble,Indian_Male_Young,Indian,Male,Young,-0.6671716941566845,31,32
+Facial Hair,stubble,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,-0.11778303565638351,32,32
+Facial Hair,stubble,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,0.05406722127027579,31,30
+Facial Hair,stubble,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,-0.2363887780642304,30,32
+Facial Hair,stubble,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,0.04879016416943204,31,32
+Facial Hair,stubble,MiddleEastern_Male_Old,MiddleEastern,Male,Old,-0.23889190828234896,32,32
+Facial Hair,stubble,MiddleEastern_Male_Young,MiddleEastern,Male,Young,0.06453852113757116,31,30
+Facial Hair,stubble,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,-0.3232270098711923,31,32
+Facial Hair,stubble,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,-0.8553819787871626,32,32
+Facial Hair,stubble,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,-0.6620565934899143,32,31
+Facial Hair,stubble,White_Male_MiddleAged,White,Male,MiddleAged,0.06062462181643484,32,31
+Facial Hair,stubble,White_Male_Old,White,Male,Old,-0.3053816495511819,31,32
+Facial Hair,stubble,White_Male_Young,White,Male,Young,-0.06453852113757118,32,31
+Hair Style (Female),braids,Black_Female_Child,Black,Female,Child,0.19105523676270922,40,40
+Hair Style (Female),braids,Black_Female_MiddleAged,Black,Female,MiddleAged,-0.192371892647456,40,40
+Hair Style (Female),braids,Black_Female_Old,Black,Female,Old,-0.6554068525770984,39,36
+Hair Style (Female),braids,Black_Female_Young,Black,Female,Young,-0.7305029671037143,39,40
+Hair Style (Female),braids,EastAsian_Female_Child,EastAsian,Female,Child,0.6733445532637656,40,40
+Hair Style (Female),braids,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,-0.7343901390939944,40,39
+Hair Style (Female),braids,EastAsian_Female_Old,EastAsian,Female,Old,0.5978370007556204,40,40
+Hair Style (Female),braids,EastAsian_Female_Young,EastAsian,Female,Young,-0.00961545869944187,38,40
+Hair Style (Female),braids,Indian_Female_Child,Indian,Female,Child,-0.2552318658657103,39,40
+Hair Style (Female),braids,Indian_Female_MiddleAged,Indian,Female,MiddleAged,-0.7731898882334817,40,40
+Hair Style (Female),braids,Indian_Female_Old,Indian,Female,Old,0.34043263783730976,39,40
+Hair Style (Female),braids,Indian_Female_Young,Indian,Female,Young,-0.040821994520255166,37,38
+Hair Style (Female),braids,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,-0.04652001563489282,39,38
+Hair Style (Female),braids,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,0.0,40,40
+Hair Style (Female),braids,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,0.7686547330680906,38,37
+Hair Style (Female),braids,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,0.05406722127027579,39,40
+Hair Style (Female),braids,MiddleEastern_Female_Child,MiddleEastern,Female,Child,0.6505875661411493,39,38
+Hair Style (Female),braids,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,0.10008345855698263,38,40
+Hair Style (Female),braids,MiddleEastern_Female_Old,MiddleEastern,Female,Old,0.4401506660960544,40,39
+Hair Style (Female),braids,MiddleEastern_Female_Young,MiddleEastern,Female,Young,0.3854243572247182,40,38
+Hair Style (Female),braids,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,1.0355541527009726,39,40
+Hair Style (Female),braids,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,-0.09758032833886408,39,39
+Hair Style (Female),braids,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,0.09851898384110966,39,39
+Hair Style (Female),braids,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,0.0966268356890717,40,40
+Hair Style (Female),braids,White_Female_Child,White,Female,Child,0.8754687373538999,40,40
+Hair Style (Female),braids,White_Female_MiddleAged,White,Female,MiddleAged,-0.14054002277899963,40,39
+Hair Style (Female),braids,White_Female_Old,White,Female,Old,-0.4857459393689672,40,38
+Hair Style (Female),braids,White_Female_Young,White,Female,Young,0.5474033299059187,39,38
+Hair Style (Female),curlyafro,Black_Female_Child,Black,Female,Child,0.26236426446749106,39,40
+Hair Style (Female),curlyafro,Black_Female_MiddleAged,Black,Female,MiddleAged,-0.5146644000731565,40,40
+Hair Style (Female),curlyafro,Black_Female_Old,Black,Female,Old,-0.6325225587435105,40,39
+Hair Style (Female),curlyafro,Black_Female_Young,Black,Female,Young,0.09574505695838434,40,40
+Hair Style (Female),curlyafro,EastAsian_Female_Child,EastAsian,Female,Child,-0.5306282510621704,40,40
+Hair Style (Female),curlyafro,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,-0.2944525790189915,40,40
+Hair Style (Female),curlyafro,EastAsian_Female_Old,EastAsian,Female,Old,-0.3821104735254185,40,40
+Hair Style (Female),curlyafro,EastAsian_Female_Young,EastAsian,Female,Young,-0.5020919437972361,40,40
+Hair Style (Female),curlyafro,Indian_Female_Child,Indian,Female,Child,-0.7306302738146857,40,39
+Hair Style (Female),curlyafro,Indian_Female_MiddleAged,Indian,Female,MiddleAged,-0.3856624808119848,40,40
+Hair Style (Female),curlyafro,Indian_Female_Old,Indian,Female,Old,0.2903523010076598,40,40
+Hair Style (Female),curlyafro,Indian_Female_Young,Indian,Female,Young,0.20294084399669038,37,39
+Hair Style (Female),curlyafro,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,0.33890434158982535,40,39
+Hair Style (Female),curlyafro,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,-0.10375923429085245,39,39
+Hair Style (Female),curlyafro,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,-1.2194769908619012,39,36
+Hair Style (Female),curlyafro,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,-0.9382696385929302,39,40
+Hair Style (Female),curlyafro,MiddleEastern_Female_Child,MiddleEastern,Female,Child,0.81377516834856,40,40
+Hair Style (Female),curlyafro,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,0.19633229386355286,39,39
+Hair Style (Female),curlyafro,MiddleEastern_Female_Old,MiddleEastern,Female,Old,-0.6557429983330618,39,40
+Hair Style (Female),curlyafro,MiddleEastern_Female_Young,MiddleEastern,Female,Young,-0.5988365010887041,39,39
+Hair Style (Female),curlyafro,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,-1.675760555365173,39,40
+Hair Style (Female),curlyafro,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,-1.4434527749598391,39,38
+Hair Style (Female),curlyafro,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,-0.6469577980905706,38,39
+Hair Style (Female),curlyafro,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,-0.7672551527136672,38,39
+Hair Style (Female),curlyafro,White_Female_Child,White,Female,Child,-0.1712717206073697,40,39
+Hair Style (Female),curlyafro,White_Female_MiddleAged,White,Female,MiddleAged,-0.2552318658657103,40,39
+Hair Style (Female),curlyafro,White_Female_Old,White,Female,Old,-0.4787373092144902,40,40
+Hair Style (Female),curlyafro,White_Female_Young,White,Female,Young,-0.7796776727122245,39,38
+Hair Style (Female),longstraighthair,Black_Female_Child,Black,Female,Child,0.14410034397375687,39,40
+Hair Style (Female),longstraighthair,Black_Female_MiddleAged,Black,Female,MiddleAged,0.6584616225720554,39,39
+Hair Style (Female),longstraighthair,Black_Female_Old,Black,Female,Old,0.7411015736819814,40,39
+Hair Style (Female),longstraighthair,Black_Female_Young,Black,Female,Young,0.8574502318512218,38,39
+Hair Style (Female),longstraighthair,EastAsian_Female_Child,EastAsian,Female,Child,0.05129329438755048,39,40
+Hair Style (Female),longstraighthair,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,0.5767177175746939,40,40
+Hair Style (Female),longstraighthair,EastAsian_Female_Old,EastAsian,Female,Old,0.29445257901899147,40,40
+Hair Style (Female),longstraighthair,EastAsian_Female_Young,EastAsian,Female,Young,0.3975910516772585,38,40
+Hair Style (Female),longstraighthair,Indian_Female_Child,Indian,Female,Child,0.6016757770627861,40,38
+Hair Style (Female),longstraighthair,Indian_Female_MiddleAged,Indian,Female,MiddleAged,0.044451762570833796,39,40
+Hair Style (Female),longstraighthair,Indian_Female_Old,Indian,Female,Old,-0.19105523676270922,40,40
+Hair Style (Female),longstraighthair,Indian_Female_Young,Indian,Female,Young,0.6575961962956264,35,40
+Hair Style (Female),longstraighthair,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,0.765642682598099,38,39
+Hair Style (Female),longstraighthair,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,0.19633229386355286,39,39
+Hair Style (Female),longstraighthair,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,-0.1577456507451173,37,38
+Hair Style (Female),longstraighthair,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,0.28768207245178085,40,40
+Hair Style (Female),longstraighthair,MiddleEastern_Female_Child,MiddleEastern,Female,Child,0.4166839917129527,40,40
+Hair Style (Female),longstraighthair,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,0.14416979082957834,39,38
+Hair Style (Female),longstraighthair,MiddleEastern_Female_Old,MiddleEastern,Female,Old,0.19633229386355286,39,39
+Hair Style (Female),longstraighthair,MiddleEastern_Female_Young,MiddleEastern,Female,Young,1.3550418176157861,40,39
+Hair Style (Female),longstraighthair,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,0.7708737320156513,37,40
+Hair Style (Female),longstraighthair,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,0.5614693565847456,40,39
+Hair Style (Female),longstraighthair,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,0.4787373092144901,40,40
+Hair Style (Female),longstraighthair,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,0.814844115537465,37,39
+Hair Style (Female),longstraighthair,White_Female_Child,White,Female,Child,0.5007752879124894,40,38
+Hair Style (Female),longstraighthair,White_Female_MiddleAged,White,Female,MiddleAged,-0.14226507259327711,39,40
+Hair Style (Female),longstraighthair,White_Female_Old,White,Female,Old,0.09574505695838434,40,40
+Hair Style (Female),longstraighthair,White_Female_Young,White,Female,Young,1.1529176335256517,39,40
+Hair Style (Female),longwavyhair,Black_Female_Child,Black,Female,Child,-0.48097266061630956,40,40
+Hair Style (Female),longwavyhair,Black_Female_MiddleAged,Black,Female,MiddleAged,0.488352767913932,40,38
+Hair Style (Female),longwavyhair,Black_Female_Old,Black,Female,Old,0.5767177175746939,40,40
+Hair Style (Female),longwavyhair,Black_Female_Young,Black,Female,Young,0.587786664902119,40,40
+Hair Style (Female),longwavyhair,EastAsian_Female_Child,EastAsian,Female,Child,-0.09798040836020366,40,40
+Hair Style (Female),longwavyhair,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,0.6733445532637654,40,40
+Hair Style (Female),longwavyhair,EastAsian_Female_Old,EastAsian,Female,Old,-0.4342855466436564,40,39
+Hair Style (Female),longwavyhair,EastAsian_Female_Young,EastAsian,Female,Young,0.4499628783622896,38,39
+Hair Style (Female),longwavyhair,Indian_Female_Child,Indian,Female,Child,0.3917259322248603,39,39
+Hair Style (Female),longwavyhair,Indian_Female_MiddleAged,Indian,Female,MiddleAged,0.18759861389479815,40,38
+Hair Style (Female),longwavyhair,Indian_Female_Old,Indian,Female,Old,-0.4462871026284195,39,40
+Hair Style (Female),longwavyhair,Indian_Female_Young,Indian,Female,Young,-0.19539363836130752,40,38
+Hair Style (Female),longwavyhair,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,0.2495303064874045,40,39
+Hair Style (Female),longwavyhair,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,-0.6373423393911288,39,40
+Hair Style (Female),longwavyhair,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,0.23905900662010926,39,40
+Hair Style (Female),longwavyhair,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,0.29113869531969183,38,40
+Hair Style (Female),longwavyhair,MiddleEastern_Female_Child,MiddleEastern,Female,Child,-0.683096844706444,40,40
+Hair Style (Female),longwavyhair,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,-1.188008953336922,40,40
+Hair Style (Female),longwavyhair,MiddleEastern_Female_Old,MiddleEastern,Female,Old,-0.6325225587435105,40,39
+Hair Style (Female),longwavyhair,MiddleEastern_Female_Young,MiddleEastern,Female,Young,0.0,40,40
+Hair Style (Female),longwavyhair,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,-0.2876820724517809,40,40
+Hair Style (Female),longwavyhair,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,0.3829922522561057,40,40
+Hair Style (Female),longwavyhair,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,0.29035230100765963,40,40
+Hair Style (Female),longwavyhair,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,0.044451762570833796,38,39
+Hair Style (Female),longwavyhair,White_Female_Child,White,Female,Child,-0.24038535774871583,40,39
+Hair Style (Female),longwavyhair,White_Female_MiddleAged,White,Female,MiddleAged,-0.06453852113757129,39,40
+Hair Style (Female),longwavyhair,White_Female_Old,White,Female,Old,0.1488736227264145,39,38
+Hair Style (Female),longwavyhair,White_Female_Young,White,Female,Young,0.2333767275942388,40,38
+Hair Style (Female),pixiecut,Black_Female_Child,Black,Female,Child,-0.45821567349369347,37,40
+Hair Style (Female),pixiecut,Black_Female_MiddleAged,Black,Female,MiddleAged,-0.7306302738146857,40,39
+Hair Style (Female),pixiecut,Black_Female_Old,Black,Female,Old,0.09574505695838434,40,40
+Hair Style (Female),pixiecut,Black_Female_Young,Black,Female,Young,-1.1826954058786512,39,40
+Hair Style (Female),pixiecut,EastAsian_Female_Child,EastAsian,Female,Child,-0.4462871026284195,39,40
+Hair Style (Female),pixiecut,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,-0.6733445532637656,40,40
+Hair Style (Female),pixiecut,EastAsian_Female_Old,EastAsian,Female,Old,-0.33687231664255274,39,40
+Hair Style (Female),pixiecut,EastAsian_Female_Young,EastAsian,Female,Young,-0.49024491606596987,39,39
+Hair Style (Female),pixiecut,Indian_Female_Child,Indian,Female,Child,0.0,39,39
+Hair Style (Female),pixiecut,Indian_Female_MiddleAged,Indian,Female,MiddleAged,1.313172096290928,40,38
+Hair Style (Female),pixiecut,Indian_Female_Old,Indian,Female,Old,0.0,40,40
+Hair Style (Female),pixiecut,Indian_Female_Young,Indian,Female,Young,-0.9555114450274365,39,38
+Hair Style (Female),pixiecut,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,-1.2809338454620645,39,38
+Hair Style (Female),pixiecut,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,1.0900285449767182,40,40
+Hair Style (Female),pixiecut,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,0.49247648509779407,40,40
+Hair Style (Female),pixiecut,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,-0.0953101798043249,40,40
+Hair Style (Female),pixiecut,MiddleEastern_Female_Child,MiddleEastern,Female,Child,-0.6307849388449694,40,39
+Hair Style (Female),pixiecut,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,0.10008345855698243,40,38
+Hair Style (Female),pixiecut,MiddleEastern_Female_Old,MiddleEastern,Female,Old,0.8131064956389245,38,38
+Hair Style (Female),pixiecut,MiddleEastern_Female_Young,MiddleEastern,Female,Young,-0.29605032212229737,39,39
+Hair Style (Female),pixiecut,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,-0.4657242996263613,40,39
+Hair Style (Female),pixiecut,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,0.0,40,40
+Hair Style (Female),pixiecut,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,0.0,40,40
+Hair Style (Female),pixiecut,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,-0.795168794952257,39,39
+Hair Style (Female),pixiecut,White_Female_Child,White,Female,Child,-1.152917633525652,40,39
+Hair Style (Female),pixiecut,White_Female_MiddleAged,White,Female,MiddleAged,0.6190392084062235,38,38
+Hair Style (Female),pixiecut,White_Female_Old,White,Female,Old,-0.44579315349513604,38,39
+Hair Style (Female),pixiecut,White_Female_Young,White,Female,Young,-0.8303483020734304,39,40
+Hair Style (Female),shoulderlengthhair,Black_Female_Child,Black,Female,Child,0.3376587109545846,39,40
+Hair Style (Female),shoulderlengthhair,Black_Female_MiddleAged,Black,Female,MiddleAged,0.3376587109545846,39,40
+Hair Style (Female),shoulderlengthhair,Black_Female_Old,Black,Female,Old,-0.15188053129271925,39,38
+Hair Style (Female),shoulderlengthhair,Black_Female_Young,Black,Female,Young,0.3404326378373099,40,39
+Hair Style (Female),shoulderlengthhair,EastAsian_Female_Child,EastAsian,Female,Child,0.29035230100765963,40,40
+Hair Style (Female),shoulderlengthhair,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,0.44628710262841953,40,39
+Hair Style (Female),shoulderlengthhair,EastAsian_Female_Old,EastAsian,Female,Old,0.2960503221222974,39,39
+Hair Style (Female),shoulderlengthhair,EastAsian_Female_Young,EastAsian,Female,Young,0.14410034397375687,39,40
+Hair Style (Female),shoulderlengthhair,Indian_Female_Child,Indian,Female,Child,0.0,39,39
+Hair Style (Female),shoulderlengthhair,Indian_Female_MiddleAged,Indian,Female,MiddleAged,-0.35097692282409454,39,40
+Hair Style (Female),shoulderlengthhair,Indian_Female_Old,Indian,Female,Old,0.0,40,40
+Hair Style (Female),shoulderlengthhair,Indian_Female_Young,Indian,Female,Young,0.3589911001565628,40,39
+Hair Style (Female),shoulderlengthhair,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,-0.02985296314968116,40,37
+Hair Style (Female),shoulderlengthhair,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,-0.5947071077466928,39,40
+Hair Style (Female),shoulderlengthhair,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,-0.19633229386355297,39,39
+Hair Style (Female),shoulderlengthhair,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,0.39019763597737583,40,40
+Hair Style (Female),shoulderlengthhair,MiddleEastern_Female_Child,MiddleEastern,Female,Child,-0.4034428627273966,39,39
+Hair Style (Female),shoulderlengthhair,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,0.645356516723597,40,39
+Hair Style (Female),shoulderlengthhair,MiddleEastern_Female_Old,MiddleEastern,Female,Old,-0.14054002277899963,40,39
+Hair Style (Female),shoulderlengthhair,MiddleEastern_Female_Young,MiddleEastern,Female,Young,-0.8329091229351039,40,39
+Hair Style (Female),shoulderlengthhair,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,0.39363065046116175,39,39
+Hair Style (Female),shoulderlengthhair,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,0.4787373092144901,40,40
+Hair Style (Female),shoulderlengthhair,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,-0.23905900662010923,39,40
+Hair Style (Female),shoulderlengthhair,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,0.587786664902119,38,40
+Hair Style (Female),shoulderlengthhair,White_Female_Child,White,Female,Child,0.15860503017663857,40,39
+Hair Style (Female),shoulderlengthhair,White_Female_MiddleAged,White,Female,MiddleAged,0.0,40,40
+Hair Style (Female),shoulderlengthhair,White_Female_Old,White,Female,Old,1.2068258733083426,39,39
+Hair Style (Female),shoulderlengthhair,White_Female_Young,White,Female,Young,-0.2911386953196919,40,38
+Hair Style (Male),afro,Black_Male_Child,Black,Male,Child,-0.2411620568168881,46,48
+Hair Style (Male),afro,Black_Male_MiddleAged,Black,Male,MiddleAged,-0.5771482666970632,47,48
+Hair Style (Male),afro,Black_Male_Old,Black,Male,Old,-0.3212047644904244,48,48
+Hair Style (Male),afro,Black_Male_Young,Black,Male,Young,-1.1410837157770024,48,47
+Hair Style (Male),afro,EastAsian_Male_Child,EastAsian,Male,Child,-0.30245338977209363,48,47
+Hair Style (Male),afro,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,-0.5639354490799391,48,48
+Hair Style (Male),afro,EastAsian_Male_Old,EastAsian,Male,Old,-0.2881760215850644,48,45
+Hair Style (Male),afro,EastAsian_Male_Young,EastAsian,Male,Young,-0.5844374411092368,47,47
+Hair Style (Male),afro,Indian_Male_Child,Indian,Male,Child,0.10008345855698263,46,48
+Hair Style (Male),afro,Indian_Male_MiddleAged,Indian,Male,MiddleAged,-0.22921030399644712,47,46
+Hair Style (Male),afro,Indian_Male_Old,Indian,Male,Old,-0.13976194237515885,47,44
+Hair Style (Male),afro,Indian_Male_Young,Indian,Male,Young,-0.36171485380882085,45,48
+Hair Style (Male),afro,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,0.45953232937844024,48,45
+Hair Style (Male),afro,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,-1.2105302048720952,47,48
+Hair Style (Male),afro,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,-0.24520464418466464,47,47
+Hair Style (Male),afro,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,-0.6337237600891445,45,48
+Hair Style (Male),afro,MiddleEastern_Male_Child,MiddleEastern,Male,Child,-0.24520464418466464,47,47
+Hair Style (Male),afro,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,-0.742418229566728,46,48
+Hair Style (Male),afro,MiddleEastern_Male_Old,MiddleEastern,Male,Old,0.4855078157817008,48,48
+Hair Style (Male),afro,MiddleEastern_Male_Young,MiddleEastern,Male,Young,-0.23437061390799327,48,47
+Hair Style (Male),afro,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,0.16243074218787146,48,48
+Hair Style (Male),afro,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,-0.623658154262518,48,47
+Hair Style (Male),afro,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,0.20034006229663284,48,47
+Hair Style (Male),afro,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,-0.08793007250670237,48,48
+Hair Style (Male),afro,White_Male_Child,White,Male,Child,0.5008504787091712,46,48
+Hair Style (Male),afro,White_Male_MiddleAged,White,Male,MiddleAged,0.1650797503594486,47,47
+Hair Style (Male),afro,White_Male_Old,White,Male,Old,-0.6943426379647191,47,48
+Hair Style (Male),afro,White_Male_Young,White,Male,Young,0.11855973472455587,48,47
+Hair Style (Male),bald,Black_Male_Child,Black,Male,Child,-1.1467756900467325,46,47
+Hair Style (Male),bald,Black_Male_MiddleAged,Black,Male,MiddleAged,0.4228568508200336,46,48
+Hair Style (Male),bald,Black_Male_Old,Black,Male,Old,-0.623658154262518,48,47
+Hair Style (Male),bald,Black_Male_Young,Black,Male,Young,0.2847538126726926,48,47
+Hair Style (Male),bald,EastAsian_Male_Child,EastAsian,Male,Child,-0.3756121449584833,48,47
+Hair Style (Male),bald,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,0.0408219945202552,48,47
+Hair Style (Male),bald,EastAsian_Male_Old,EastAsian,Male,Old,-0.3307415619122278,47,47
+Hair Style (Male),bald,EastAsian_Male_Young,EastAsian,Male,Young,0.6513656465449903,45,46
+Hair Style (Male),bald,Indian_Male_Child,Indian,Male,Child,-0.6592456288842639,48,46
+Hair Style (Male),bald,Indian_Male_MiddleAged,Indian,Male,MiddleAged,-0.17039298592868077,45,45
+Hair Style (Male),bald,Indian_Male_Old,Indian,Male,Old,-0.16034265007517937,48,48
+Hair Style (Male),bald,Indian_Male_Young,Indian,Male,Young,0.4941658785248154,47,47
+Hair Style (Male),bald,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,-0.821859286748519,48,47
+Hair Style (Male),bald,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,0.0,47,47
+Hair Style (Male),bald,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,0.25439609481831427,47,45
+Hair Style (Male),bald,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,0.44595646946290135,47,48
+Hair Style (Male),bald,MiddleEastern_Male_Child,MiddleEastern,Male,Child,-0.2011646445954346,47,48
+Hair Style (Male),bald,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,0.08288765980576765,47,47
+Hair Style (Male),bald,MiddleEastern_Male_Old,MiddleEastern,Male,Old,-0.48982747692621725,46,48
+Hair Style (Male),bald,MiddleEastern_Male_Young,MiddleEastern,Male,Young,0.8630462173553427,48,47
+Hair Style (Male),bald,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,-0.8064758658669485,48,47
+Hair Style (Male),bald,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,0.38822330167365837,46,47
+Hair Style (Male),bald,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,-0.03774032798284697,48,47
+Hair Style (Male),bald,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,0.9146086456911703,48,46
+Hair Style (Male),bald,White_Male_Child,White,Male,Child,-0.9044562742271522,48,48
+Hair Style (Male),bald,White_Male_MiddleAged,White,Male,MiddleAged,-0.4941658785248153,47,47
+Hair Style (Male),bald,White_Male_Old,White,Male,Old,0.0,48,48
+Hair Style (Male),bald,White_Male_Young,White,Male,Young,-0.1273394223766014,48,47
+Hair Style (Male),buzzcut,Black_Male_Child,Black,Male,Child,-0.5844374411092368,47,47
+Hair Style (Male),buzzcut,Black_Male_MiddleAged,Black,Male,MiddleAged,0.16941815195804655,46,46
+Hair Style (Male),buzzcut,Black_Male_Old,Black,Male,Old,-0.24038535774871583,48,48
+Hair Style (Male),buzzcut,Black_Male_Young,Black,Male,Young,0.3718484973091795,46,47
+Hair Style (Male),buzzcut,EastAsian_Male_Child,EastAsian,Male,Child,-0.2026450297658687,47,48
+Hair Style (Male),buzzcut,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,0.45907455871354524,46,47
+Hair Style (Male),buzzcut,EastAsian_Male_Old,EastAsian,Male,Old,-0.8909729238898653,46,47
+Hair Style (Male),buzzcut,EastAsian_Male_Young,EastAsian,Male,Young,0.20264502976586868,47,48
+Hair Style (Male),buzzcut,Indian_Male_Child,Indian,Male,Child,-0.5776342934381009,46,48
+Hair Style (Male),buzzcut,Indian_Male_MiddleAged,Indian,Male,MiddleAged,-0.4700036292457356,46,47
+Hair Style (Male),buzzcut,Indian_Male_Old,Indian,Male,Old,-0.12062798778861475,47,46
+Hair Style (Male),buzzcut,Indian_Male_Young,Indian,Male,Young,-0.40281609993658746,48,48
+Hair Style (Male),buzzcut,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,-0.9631296759123252,48,45
+Hair Style (Male),buzzcut,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,0.6640189076369217,46,48
+Hair Style (Male),buzzcut,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,-0.578016873306314,46,45
+Hair Style (Male),buzzcut,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,0.24561640716626845,47,47
+Hair Style (Male),buzzcut,MiddleEastern_Male_Child,MiddleEastern,Male,Child,-0.4082161414800543,46,48
+Hair Style (Male),buzzcut,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,0.36359538678330616,47,48
+Hair Style (Male),buzzcut,MiddleEastern_Male_Old,MiddleEastern,Male,Old,-0.325422400434628,48,48
+Hair Style (Male),buzzcut,MiddleEastern_Male_Young,MiddleEastern,Male,Young,0.454945165371534,46,47
+Hair Style (Male),buzzcut,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,0.1611193491433516,48,48
+Hair Style (Male),buzzcut,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,-0.28286278601583215,47,48
+Hair Style (Male),buzzcut,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,-0.7307102821355939,48,48
+Hair Style (Male),buzzcut,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,0.16430305129127634,48,48
+Hair Style (Male),buzzcut,White_Male_Child,White,Male,Child,0.12075859576894796,47,46
+Hair Style (Male),buzzcut,White_Male_MiddleAged,White,Male,MiddleAged,0.3307415619122278,47,47
+Hair Style (Male),buzzcut,White_Male_Old,White,Male,Old,-0.12086470219379153,48,47
+Hair Style (Male),buzzcut,White_Male_Young,White,Male,Young,0.37561214495848333,48,47
+Hair Style (Male),dreadlocks,Black_Male_Child,Black,Male,Child,-0.7282385003712154,48,48
+Hair Style (Male),dreadlocks,Black_Male_MiddleAged,Black,Male,MiddleAged,-0.715620036412004,47,46
+Hair Style (Male),dreadlocks,Black_Male_Old,Black,Male,Old,-0.40150470689206746,48,48
+Hair Style (Male),dreadlocks,Black_Male_Young,Black,Male,Young,-0.8663888388520326,47,48
+Hair Style (Male),dreadlocks,EastAsian_Male_Child,EastAsian,Male,Child,-1.16857087727502,47,48
+Hair Style (Male),dreadlocks,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,-1.0510597484190276,48,45
+Hair Style (Male),dreadlocks,EastAsian_Male_Old,EastAsian,Male,Old,-0.1667691437864697,47,47
+Hair Style (Male),dreadlocks,EastAsian_Male_Young,EastAsian,Male,Young,-1.6739764335716716,45,47
+Hair Style (Male),dreadlocks,Indian_Male_Child,Indian,Male,Child,-1.4508328822574619,47,47
+Hair Style (Male),dreadlocks,Indian_Male_MiddleAged,Indian,Male,MiddleAged,-1.2621723426742952,46,45
+Hair Style (Male),dreadlocks,Indian_Male_Old,Indian,Male,Old,-0.8465211613190314,47,47
+Hair Style (Male),dreadlocks,Indian_Male_Young,Indian,Male,Young,-1.095482395659182,47,47
+Hair Style (Male),dreadlocks,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,-0.8736846155603984,48,47
+Hair Style (Male),dreadlocks,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,-0.8419359172458183,46,48
+Hair Style (Male),dreadlocks,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,-1.2347444629926898,47,46
+Hair Style (Male),dreadlocks,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,-1.9348603128687285,47,47
+Hair Style (Male),dreadlocks,MiddleEastern_Male_Child,MiddleEastern,Male,Child,-1.5553706911638245,47,46
+Hair Style (Male),dreadlocks,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,-0.2411620568168881,48,48
+Hair Style (Male),dreadlocks,MiddleEastern_Male_Old,MiddleEastern,Male,Old,-0.6703325027937741,45,47
+Hair Style (Male),dreadlocks,MiddleEastern_Male_Young,MiddleEastern,Male,Young,-2.08877286910872,48,46
+Hair Style (Male),dreadlocks,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,-0.6224722228900089,47,48
+Hair Style (Male),dreadlocks,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,-1.1112307526273213,46,48
+Hair Style (Male),dreadlocks,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,-0.7847775034058697,48,47
+Hair Style (Male),dreadlocks,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,-1.393674468417513,48,47
+Hair Style (Male),dreadlocks,White_Male_Child,White,Male,Child,-0.5436154465889815,47,46
+Hair Style (Male),dreadlocks,White_Male_MiddleAged,White,Male,MiddleAged,-2.0281482472922856,46,46
+Hair Style (Male),dreadlocks,White_Male_Old,White,Male,Old,-0.24686007793152565,47,47
+Hair Style (Male),dreadlocks,White_Male_Young,White,Male,Young,-2.1986480651210734,48,48
+Hair Style (Male),longstraighthair,Black_Male_Child,Black,Male,Child,2.305438161976452,47,48
+Hair Style (Male),longstraighthair,Black_Male_MiddleAged,Black,Male,MiddleAged,-0.5029515673350848,48,48
+Hair Style (Male),longstraighthair,Black_Male_Old,Black,Male,Old,0.7731898882334817,48,46
+Hair Style (Male),longstraighthair,Black_Male_Young,Black,Male,Young,0.8685000680378065,48,46
+Hair Style (Male),longstraighthair,EastAsian_Male_Child,EastAsian,Male,Child,1.5624642791910661,48,47
+Hair Style (Male),longstraighthair,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,0.6102595207541777,48,47
+Hair Style (Male),longstraighthair,EastAsian_Male_Old,EastAsian,Male,Old,0.6241543090729937,47,46
+Hair Style (Male),longstraighthair,EastAsian_Male_Young,EastAsian,Male,Young,0.9478850972923722,47,48
+Hair Style (Male),longstraighthair,Indian_Male_Child,Indian,Male,Child,2.1186622548331173,45,47
+Hair Style (Male),longstraighthair,Indian_Male_MiddleAged,Indian,Male,MiddleAged,0.7678279450920964,46,46
+Hair Style (Male),longstraighthair,Indian_Male_Old,Indian,Male,Old,0.5908683314395271,48,46
+Hair Style (Male),longstraighthair,Indian_Male_Young,Indian,Male,Young,0.45610884092691945,46,47
+Hair Style (Male),longstraighthair,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,2.25279442849103,48,45
+Hair Style (Male),longstraighthair,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,0.371563556432483,46,47
+Hair Style (Male),longstraighthair,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,0.6615528151417283,47,47
+Hair Style (Male),longstraighthair,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,0.5260930958967791,46,46
+Hair Style (Male),longstraighthair,MiddleEastern_Male_Child,MiddleEastern,Male,Child,2.2101279821721276,48,48
+Hair Style (Male),longstraighthair,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,0.08388148398070203,47,47
+Hair Style (Male),longstraighthair,MiddleEastern_Male_Old,MiddleEastern,Male,Old,0.3254224004346281,48,48
+Hair Style (Male),longstraighthair,MiddleEastern_Male_Young,MiddleEastern,Male,Young,-0.1557193075998848,48,46
+Hair Style (Male),longstraighthair,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,1.7346010553881064,47,47
+Hair Style (Male),longstraighthair,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,0.3954534726939178,46,47
+Hair Style (Male),longstraighthair,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,0.22006188477680183,48,45
+Hair Style (Male),longstraighthair,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,-0.1559348016207596,47,45
+Hair Style (Male),longstraighthair,White_Male_Child,White,Male,Child,1.232722217611922,48,48
+Hair Style (Male),longstraighthair,White_Male_MiddleAged,White,Male,MiddleAged,0.4654684740803442,46,47
+Hair Style (Male),longstraighthair,White_Male_Old,White,Male,Old,0.8881198549074588,47,48
+Hair Style (Male),longstraighthair,White_Male_Young,White,Male,Young,0.13398501023266385,48,47
+Hair Style (Male),mediumwavycurlyhair,Black_Male_Child,Black,Male,Child,1.3862943611198906,44,48
+Hair Style (Male),mediumwavycurlyhair,Black_Male_MiddleAged,Black,Male,MiddleAged,0.33262778415589833,45,47
+Hair Style (Male),mediumwavycurlyhair,Black_Male_Old,Black,Male,Old,-0.12260232209233227,48,47
+Hair Style (Male),mediumwavycurlyhair,Black_Male_Young,Black,Male,Young,0.2896564067554984,47,46
+Hair Style (Male),mediumwavycurlyhair,EastAsian_Male_Child,EastAsian,Male,Child,-0.5639354490799391,48,48
+Hair Style (Male),mediumwavycurlyhair,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,-0.5500463369192718,45,46
+Hair Style (Male),mediumwavycurlyhair,EastAsian_Male_Old,EastAsian,Male,Old,0.16397241812575813,47,47
+Hair Style (Male),mediumwavycurlyhair,EastAsian_Male_Young,EastAsian,Male,Young,-0.7444404749474959,47,47
+Hair Style (Male),mediumwavycurlyhair,Indian_Male_Child,Indian,Male,Child,-0.08701137698962981,46,48
+Hair Style (Male),mediumwavycurlyhair,Indian_Male_MiddleAged,Indian,Male,MiddleAged,0.1686553660301401,47,45
+Hair Style (Male),mediumwavycurlyhair,Indian_Male_Old,Indian,Male,Old,0.11952065555492423,48,47
+Hair Style (Male),mediumwavycurlyhair,Indian_Male_Young,Indian,Male,Young,-0.7031223256167648,48,45
+Hair Style (Male),mediumwavycurlyhair,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,0.9982209957235954,48,46
+Hair Style (Male),mediumwavycurlyhair,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,-0.20479441264601328,47,48
+Hair Style (Male),mediumwavycurlyhair,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,0.49532143723002553,48,48
+Hair Style (Male),mediumwavycurlyhair,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,-0.2513144282809062,44,46
+Hair Style (Male),mediumwavycurlyhair,MiddleEastern_Male_Child,MiddleEastern,Male,Child,0.04779066383634869,45,48
+Hair Style (Male),mediumwavycurlyhair,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,0.11855973472455568,47,48
+Hair Style (Male),mediumwavycurlyhair,MiddleEastern_Male_Old,MiddleEastern,Male,Old,-0.37671569482217865,47,48
+Hair Style (Male),mediumwavycurlyhair,MiddleEastern_Male_Young,MiddleEastern,Male,Young,-0.7472144018302211,46,44
+Hair Style (Male),mediumwavycurlyhair,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,-0.3254224004346281,48,48
+Hair Style (Male),mediumwavycurlyhair,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,-0.20598393103138324,46,47
+Hair Style (Male),mediumwavycurlyhair,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,0.044451762570833796,48,47
+Hair Style (Male),mediumwavycurlyhair,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,-0.42101312449664907,47,47
+Hair Style (Male),mediumwavycurlyhair,White_Male_Child,White,Male,Child,-0.08519484606323188,47,47
+Hair Style (Male),mediumwavycurlyhair,White_Male_MiddleAged,White,Male,MiddleAged,0.44595646946290135,48,47
+Hair Style (Male),mediumwavycurlyhair,White_Male_Old,White,Male,Old,-0.5275678049090643,48,47
+Hair Style (Male),mediumwavycurlyhair,White_Male_Young,White,Male,Young,0.7884573603642703,48,46
+Hair Style (Male),shortstraighthair,Black_Male_Child,Black,Male,Child,-0.8072604873273664,46,48
+Hair Style (Male),shortstraighthair,Black_Male_MiddleAged,Black,Male,MiddleAged,0.8982722263714767,45,47
+Hair Style (Male),shortstraighthair,Black_Male_Old,Black,Male,Old,0.9790964506374116,48,48
+Hair Style (Male),shortstraighthair,Black_Male_Young,Black,Male,Young,0.2135741002980591,46,45
+Hair Style (Male),shortstraighthair,EastAsian_Male_Child,EastAsian,Male,Child,1.143348182509501,48,45
+Hair Style (Male),shortstraighthair,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,1.0321225473992768,47,48
+Hair Style (Male),shortstraighthair,EastAsian_Male_Old,EastAsian,Male,Old,0.8622235106038794,48,47
+Hair Style (Male),shortstraighthair,EastAsian_Male_Young,EastAsian,Male,Young,1.2332964191724405,46,47
+Hair Style (Male),shortstraighthair,Indian_Male_Child,Indian,Male,Child,0.7419373447293773,46,48
+Hair Style (Male),shortstraighthair,Indian_Male_MiddleAged,Indian,Male,MiddleAged,1.1220707840622162,47,48
+Hair Style (Male),shortstraighthair,Indian_Male_Old,Indian,Male,Old,0.5412666492672262,47,46
+Hair Style (Male),shortstraighthair,Indian_Male_Young,Indian,Male,Young,1.7566380864348354,47,46
+Hair Style (Male),shortstraighthair,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,-0.8630462173553428,48,47
+Hair Style (Male),shortstraighthair,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,1.2237754316221157,47,48
+Hair Style (Male),shortstraighthair,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,0.6027123151187946,44,46
+Hair Style (Male),shortstraighthair,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,1.5105920777974677,48,48
+Hair Style (Male),shortstraighthair,MiddleEastern_Male_Child,MiddleEastern,Male,Child,0.21559634567882682,48,47
+Hair Style (Male),shortstraighthair,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,0.33135713595444244,46,48
+Hair Style (Male),shortstraighthair,MiddleEastern_Male_Old,MiddleEastern,Male,Old,1.037987666851675,48,47
+Hair Style (Male),shortstraighthair,MiddleEastern_Male_Young,MiddleEastern,Male,Young,1.6683804480675504,48,47
+Hair Style (Male),shortstraighthair,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,-0.2403853577487157,48,48
+Hair Style (Male),shortstraighthair,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,1.477690641603079,47,48
+Hair Style (Male),shortstraighthair,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,1.1200526199059793,48,47
+Hair Style (Male),shortstraighthair,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,0.9786529735891307,48,47
+Hair Style (Male),shortstraighthair,White_Male_Child,White,Male,Child,-0.4361020775700542,47,45
+Hair Style (Male),shortstraighthair,White_Male_MiddleAged,White,Male,MiddleAged,0.9571127263944101,47,47
+Hair Style (Male),shortstraighthair,White_Male_Old,White,Male,Old,0.7484098592349948,47,47
+Hair Style (Male),shortstraighthair,White_Male_Young,White,Male,Young,0.8123216175817567,48,48
+Piercings,earandnosepiercings,Black_Female_Child,Black,Female,Child,-0.40546510810816444,8,8
+Piercings,earandnosepiercings,Black_Female_MiddleAged,Black,Female,MiddleAged,1.252762968495368,8,8
+Piercings,earandnosepiercings,Black_Female_Old,Black,Female,Old,2.100060828882572,8,7
+Piercings,earandnosepiercings,Black_Female_Young,Black,Female,Young,-0.8472978603872037,8,8
+Piercings,earandnosepiercings,Black_Male_Child,Black,Male,Child,-0.40546510810816444,8,8
+Piercings,earandnosepiercings,Black_Male_MiddleAged,Black,Male,MiddleAged,0.4054651081081644,8,8
+Piercings,earandnosepiercings,Black_Male_Old,Black,Male,Old,-0.2231435513142097,8,7
+Piercings,earandnosepiercings,Black_Male_Young,Black,Male,Young,1.3862943611198906,8,8
+Piercings,earandnosepiercings,EastAsian_Female_Child,EastAsian,Female,Child,0.8109302162163288,8,8
+Piercings,earandnosepiercings,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,0.8109302162163288,8,8
+Piercings,earandnosepiercings,EastAsian_Female_Old,EastAsian,Female,Old,0.8109302162163288,8,8
+Piercings,earandnosepiercings,EastAsian_Female_Young,EastAsian,Female,Young,0.0,8,8
+Piercings,earandnosepiercings,EastAsian_Male_Child,EastAsian,Male,Child,-0.40546510810816444,8,8
+Piercings,earandnosepiercings,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,1.252762968495368,8,8
+Piercings,earandnosepiercings,EastAsian_Male_Old,EastAsian,Male,Old,0.4054651081081644,8,8
+Piercings,earandnosepiercings,EastAsian_Male_Young,EastAsian,Male,Young,0.0,8,8
+Piercings,earandnosepiercings,Indian_Female_Child,Indian,Female,Child,0.8109302162163288,8,8
+Piercings,earandnosepiercings,Indian_Female_MiddleAged,Indian,Female,MiddleAged,-0.2876820724517809,8,7
+Piercings,earandnosepiercings,Indian_Female_Old,Indian,Female,Old,0.44183275227903923,8,8
+Piercings,earandnosepiercings,Indian_Female_Young,Indian,Female,Young,-0.40546510810816444,8,8
+Piercings,earandnosepiercings,Indian_Male_Child,Indian,Male,Child,0.22314355131420976,8,7
+Piercings,earandnosepiercings,Indian_Male_MiddleAged,Indian,Male,MiddleAged,-0.4418327522790392,8,8
+Piercings,earandnosepiercings,Indian_Male_Old,Indian,Male,Old,-1.252762968495368,8,8
+Piercings,earandnosepiercings,Indian_Male_Young,Indian,Male,Young,0.0,8,8
+Piercings,earandnosepiercings,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,0.8472978603872037,8,8
+Piercings,earandnosepiercings,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,0.6931471805599453,8,7
+Piercings,earandnosepiercings,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,0.8109302162163288,8,8
+Piercings,earandnosepiercings,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,0.4054651081081644,8,8
+Piercings,earandnosepiercings,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,0.1823215567939548,7,8
+Piercings,earandnosepiercings,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,0.0,8,8
+Piercings,earandnosepiercings,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,2.2335922215070942,8,8
+Piercings,earandnosepiercings,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,0.0,8,8
+Piercings,earandnosepiercings,MiddleEastern_Female_Child,MiddleEastern,Female,Child,0.0,8,8
+Piercings,earandnosepiercings,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,0.1823215567939548,7,8
+Piercings,earandnosepiercings,MiddleEastern_Female_Old,MiddleEastern,Female,Old,1.3862943611198906,8,8
+Piercings,earandnosepiercings,MiddleEastern_Female_Young,MiddleEastern,Female,Young,0.22314355131420976,8,7
+Piercings,earandnosepiercings,MiddleEastern_Male_Child,MiddleEastern,Male,Child,0.8109302162163288,8,8
+Piercings,earandnosepiercings,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,-0.40546510810816444,8,8
+Piercings,earandnosepiercings,MiddleEastern_Male_Old,MiddleEastern,Male,Old,0.22314355131420976,7,8
+Piercings,earandnosepiercings,MiddleEastern_Male_Young,MiddleEastern,Male,Young,0.6286086594223741,8,7
+Piercings,earandnosepiercings,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,0.44183275227903923,8,8
+Piercings,earandnosepiercings,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,0.6931471805599453,7,8
+Piercings,earandnosepiercings,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,1.6945957207744073,8,8
+Piercings,earandnosepiercings,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,-0.916290731874155,7,7
+Piercings,earandnosepiercings,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,0.0,8,8
+Piercings,earandnosepiercings,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,0.8109302162163288,8,8
+Piercings,earandnosepiercings,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,-0.8109302162163288,8,8
+Piercings,earandnosepiercings,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,1.791759469228055,8,8
+Piercings,earandnosepiercings,White_Female_Child,White,Female,Child,-0.40546510810816444,8,8
+Piercings,earandnosepiercings,White_Female_MiddleAged,White,Female,MiddleAged,-0.40546510810816444,8,8
+Piercings,earandnosepiercings,White_Female_Old,White,Female,Old,0.4054651081081644,8,8
+Piercings,earandnosepiercings,White_Female_Young,White,Female,Young,0.47000362924573563,7,7
+Piercings,earandnosepiercings,White_Male_Child,White,Male,Child,-0.8109302162163288,8,8
+Piercings,earandnosepiercings,White_Male_MiddleAged,White,Male,MiddleAged,-0.8472978603872037,8,8
+Piercings,earandnosepiercings,White_Male_Old,White,Male,Old,0.8472978603872037,8,8
+Piercings,earandnosepiercings,White_Male_Young,White,Male,Young,0.28768207245178085,8,7
+Piercings,earnoseseptumandlippiercings,Black_Female_Child,Black,Female,Child,0.4054651081081644,8,8
+Piercings,earnoseseptumandlippiercings,Black_Female_MiddleAged,Black,Female,MiddleAged,-1.252762968495368,8,8
+Piercings,earnoseseptumandlippiercings,Black_Female_Old,Black,Female,Old,-2.1000608288825715,8,7
+Piercings,earnoseseptumandlippiercings,Black_Female_Young,Black,Female,Young,0.8472978603872037,8,8
+Piercings,earnoseseptumandlippiercings,Black_Male_Child,Black,Male,Child,0.4054651081081644,8,8
+Piercings,earnoseseptumandlippiercings,Black_Male_MiddleAged,Black,Male,MiddleAged,-0.40546510810816444,8,8
+Piercings,earnoseseptumandlippiercings,Black_Male_Old,Black,Male,Old,0.22314355131420976,8,7
+Piercings,earnoseseptumandlippiercings,Black_Male_Young,Black,Male,Young,-1.3862943611198906,8,8
+Piercings,earnoseseptumandlippiercings,EastAsian_Female_Child,EastAsian,Female,Child,-0.8109302162163288,8,8
+Piercings,earnoseseptumandlippiercings,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,-0.8109302162163288,8,8
+Piercings,earnoseseptumandlippiercings,EastAsian_Female_Old,EastAsian,Female,Old,-0.8109302162163288,8,8
+Piercings,earnoseseptumandlippiercings,EastAsian_Female_Young,EastAsian,Female,Young,0.0,8,8
+Piercings,earnoseseptumandlippiercings,EastAsian_Male_Child,EastAsian,Male,Child,0.4054651081081644,8,8
+Piercings,earnoseseptumandlippiercings,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,-1.252762968495368,8,8
+Piercings,earnoseseptumandlippiercings,EastAsian_Male_Old,EastAsian,Male,Old,-0.40546510810816444,8,8
+Piercings,earnoseseptumandlippiercings,EastAsian_Male_Young,EastAsian,Male,Young,0.0,8,8
+Piercings,earnoseseptumandlippiercings,Indian_Female_Child,Indian,Female,Child,-0.8109302162163288,8,8
+Piercings,earnoseseptumandlippiercings,Indian_Female_MiddleAged,Indian,Female,MiddleAged,0.28768207245178085,8,7
+Piercings,earnoseseptumandlippiercings,Indian_Female_Old,Indian,Female,Old,-0.44183275227903934,8,8
+Piercings,earnoseseptumandlippiercings,Indian_Female_Young,Indian,Female,Young,0.4054651081081644,8,8
+Piercings,earnoseseptumandlippiercings,Indian_Male_Child,Indian,Male,Child,-0.2231435513142097,8,7
+Piercings,earnoseseptumandlippiercings,Indian_Male_MiddleAged,Indian,Male,MiddleAged,0.44183275227903923,8,8
+Piercings,earnoseseptumandlippiercings,Indian_Male_Old,Indian,Male,Old,1.252762968495368,8,8
+Piercings,earnoseseptumandlippiercings,Indian_Male_Young,Indian,Male,Young,0.0,8,8
+Piercings,earnoseseptumandlippiercings,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,-0.8472978603872037,8,8
+Piercings,earnoseseptumandlippiercings,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,-0.6931471805599453,8,7
+Piercings,earnoseseptumandlippiercings,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,-0.8109302162163288,8,8
+Piercings,earnoseseptumandlippiercings,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,-0.40546510810816444,8,8
+Piercings,earnoseseptumandlippiercings,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,-0.1823215567939546,7,8
+Piercings,earnoseseptumandlippiercings,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,0.0,8,8
+Piercings,earnoseseptumandlippiercings,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,-2.2335922215070942,8,8
+Piercings,earnoseseptumandlippiercings,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,0.0,8,8
+Piercings,earnoseseptumandlippiercings,MiddleEastern_Female_Child,MiddleEastern,Female,Child,0.0,8,8
+Piercings,earnoseseptumandlippiercings,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,-0.1823215567939546,7,8
+Piercings,earnoseseptumandlippiercings,MiddleEastern_Female_Old,MiddleEastern,Female,Old,-1.3862943611198906,8,8
+Piercings,earnoseseptumandlippiercings,MiddleEastern_Female_Young,MiddleEastern,Female,Young,-0.2231435513142097,8,7
+Piercings,earnoseseptumandlippiercings,MiddleEastern_Male_Child,MiddleEastern,Male,Child,-0.8109302162163288,8,8
+Piercings,earnoseseptumandlippiercings,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,0.4054651081081644,8,8
+Piercings,earnoseseptumandlippiercings,MiddleEastern_Male_Old,MiddleEastern,Male,Old,-0.2231435513142097,7,8
+Piercings,earnoseseptumandlippiercings,MiddleEastern_Male_Young,MiddleEastern,Male,Young,-0.6286086594223742,8,7
+Piercings,earnoseseptumandlippiercings,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,-0.44183275227903934,8,8
+Piercings,earnoseseptumandlippiercings,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,-0.6931471805599453,7,8
+Piercings,earnoseseptumandlippiercings,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,-1.6945957207744073,8,8
+Piercings,earnoseseptumandlippiercings,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,0.9162907318741551,7,7
+Piercings,earnoseseptumandlippiercings,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,0.0,8,8
+Piercings,earnoseseptumandlippiercings,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,-0.8109302162163288,8,8
+Piercings,earnoseseptumandlippiercings,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,0.8109302162163288,8,8
+Piercings,earnoseseptumandlippiercings,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,-1.791759469228055,8,8
+Piercings,earnoseseptumandlippiercings,White_Female_Child,White,Female,Child,0.4054651081081644,8,8
+Piercings,earnoseseptumandlippiercings,White_Female_MiddleAged,White,Female,MiddleAged,0.4054651081081644,8,8
+Piercings,earnoseseptumandlippiercings,White_Female_Old,White,Female,Old,-0.40546510810816444,8,8
+Piercings,earnoseseptumandlippiercings,White_Female_Young,White,Female,Young,-0.4700036292457356,7,7
+Piercings,earnoseseptumandlippiercings,White_Male_Child,White,Male,Child,0.8109302162163288,8,8
+Piercings,earnoseseptumandlippiercings,White_Male_MiddleAged,White,Male,MiddleAged,0.8472978603872037,8,8
+Piercings,earnoseseptumandlippiercings,White_Male_Old,White,Male,Old,-0.8472978603872037,8,8
+Piercings,earnoseseptumandlippiercings,White_Male_Young,White,Male,Young,-0.2876820724517809,8,7
+Skin Tone,dark,Black_Female_Child,Black,Female,Child,-1.8325814637483102,16,16
+Skin Tone,dark,Black_Female_MiddleAged,Black,Female,MiddleAged,-0.2231435513142097,16,16
+Skin Tone,dark,Black_Female_Old,Black,Female,Old,-1.0498221244986778,16,15
+Skin Tone,dark,Black_Female_Young,Black,Female,Young,-0.4462871026284195,16,16
+Skin Tone,dark,Black_Male_Child,Black,Male,Child,0.22884157242884745,16,16
+Skin Tone,dark,Black_Male_MiddleAged,Black,Male,MiddleAged,-0.4462871026284195,16,16
+Skin Tone,dark,Black_Male_Old,Black,Male,Old,-0.10536051565782616,16,15
+Skin Tone,dark,Black_Male_Young,Black,Male,Young,0.3409265869705932,16,15
+Skin Tone,dark,EastAsian_Female_Child,EastAsian,Female,Child,-2.330755969960742,14,16
+Skin Tone,dark,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,-0.45198512374305727,16,16
+Skin Tone,dark,EastAsian_Female_Old,EastAsian,Female,Old,-0.579818495252942,16,15
+Skin Tone,dark,EastAsian_Female_Young,EastAsian,Female,Young,-0.9039702474861145,16,16
+Skin Tone,dark,EastAsian_Male_Child,EastAsian,Male,Child,-0.579818495252942,16,15
+Skin Tone,dark,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,0.0,16,16
+Skin Tone,dark,EastAsian_Male_Old,EastAsian,Male,Old,-0.3690974639372896,14,15
+Skin Tone,dark,EastAsian_Male_Young,EastAsian,Male,Young,-0.1823215567939547,15,14
+Skin Tone,dark,Indian_Female_Child,Indian,Female,Child,-0.2231435513142097,16,16
+Skin Tone,dark,Indian_Female_MiddleAged,Indian,Female,MiddleAged,-0.2231435513142097,16,16
+Skin Tone,dark,Indian_Female_Old,Indian,Female,Old,0.13353139262452257,15,16
+Skin Tone,dark,Indian_Female_Young,Indian,Female,Young,-0.2231435513142097,16,16
+Skin Tone,dark,Indian_Male_Child,Indian,Male,Child,-0.5753641449035618,15,16
+Skin Tone,dark,Indian_Male_MiddleAged,Indian,Male,MiddleAged,-0.2231435513142097,16,16
+Skin Tone,dark,Indian_Male_Old,Indian,Male,Old,-0.35667494393873245,15,16
+Skin Tone,dark,Indian_Male_Young,Indian,Male,Young,-0.35667494393873245,16,15
+Skin Tone,dark,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,-0.7032995520239634,16,14
+Skin Tone,dark,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,-0.962810747509048,15,15
+Skin Tone,dark,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,0.44628710262841953,16,16
+Skin Tone,dark,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,-0.916290731874155,16,16
+Skin Tone,dark,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,-0.35667494393873245,16,15
+Skin Tone,dark,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,-0.3829922522561057,16,15
+Skin Tone,dark,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,-0.6751286750572669,16,16
+Skin Tone,dark,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,0.22314355131420976,16,16
+Skin Tone,dark,MiddleEastern_Female_Child,MiddleEastern,Female,Child,-1.0732944806838198,16,15
+Skin Tone,dark,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,-0.22884157242884753,16,16
+Skin Tone,dark,MiddleEastern_Female_Old,MiddleEastern,Female,Old,-0.11778303565638351,16,15
+Skin Tone,dark,MiddleEastern_Female_Young,MiddleEastern,Female,Young,0.09531017980432474,15,16
+Skin Tone,dark,MiddleEastern_Male_Child,MiddleEastern,Male,Child,-0.4462871026284195,16,16
+Skin Tone,dark,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,-0.7323678937132267,16,16
+Skin Tone,dark,MiddleEastern_Male_Old,MiddleEastern,Male,Old,-1.1451323043030026,16,16
+Skin Tone,dark,MiddleEastern_Male_Young,MiddleEastern,Male,Young,-0.45198512374305727,16,16
+Skin Tone,dark,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,0.0,16,16
+Skin Tone,dark,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,0.0,16,16
+Skin Tone,dark,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,-0.6751286750572669,16,16
+Skin Tone,dark,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,0.0,16,16
+Skin Tone,dark,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,-0.45198512374305727,16,16
+Skin Tone,dark,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,0.8292793548845252,15,16
+Skin Tone,dark,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,-0.6931471805599453,16,16
+Skin Tone,dark,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,-0.45198512374305727,16,16
+Skin Tone,dark,White_Female_Child,White,Female,Child,0.8086600676817898,16,15
+Skin Tone,dark,White_Female_MiddleAged,White,Female,MiddleAged,0.7323678937132266,16,16
+Skin Tone,dark,White_Female_Old,White,Female,Old,-0.45198512374305727,16,16
+Skin Tone,dark,White_Female_Young,White,Female,Young,0.44468582126144574,16,14
+Skin Tone,dark,White_Male_Child,White,Male,Child,0.0,16,16
+Skin Tone,dark,White_Male_MiddleAged,White,Male,MiddleAged,-0.2231435513142097,16,16
+Skin Tone,dark,White_Male_Old,White,Male,Old,-1.3121863889661687,16,15
+Skin Tone,dark,White_Male_Young,White,Male,Young,-0.1823215567939546,16,13
+Skin Tone,fair,Black_Female_Child,Black,Female,Child,1.0498221244986776,15,16
+Skin Tone,fair,Black_Female_MiddleAged,Black,Female,MiddleAged,0.4519851237430572,16,16
+Skin Tone,fair,Black_Female_Old,Black,Female,Old,0.5798184952529422,16,15
+Skin Tone,fair,Black_Female_Young,Black,Female,Young,0.09531017980432474,15,16
+Skin Tone,fair,Black_Male_Child,Black,Male,Child,0.22884157242884764,16,16
+Skin Tone,fair,Black_Male_MiddleAged,Black,Male,MiddleAged,-0.45198512374305727,16,16
+Skin Tone,fair,Black_Male_Old,Black,Male,Old,0.10536051565782635,16,15
+Skin Tone,fair,Black_Male_Young,Black,Male,Young,0.8109302162163288,16,15
+Skin Tone,fair,EastAsian_Female_Child,EastAsian,Female,Child,1.2992829841302609,15,16
+Skin Tone,fair,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,0.22314355131420976,16,16
+Skin Tone,fair,EastAsian_Female_Old,EastAsian,Female,Old,0.8086600676817898,16,15
+Skin Tone,fair,EastAsian_Female_Young,EastAsian,Female,Young,0.9444616088408513,16,14
+Skin Tone,fair,EastAsian_Male_Child,EastAsian,Male,Child,1.312186388966169,16,15
+Skin Tone,fair,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,0.44628710262841953,16,16
+Skin Tone,fair,EastAsian_Male_Old,EastAsian,Male,Old,-0.36464311358790913,14,15
+Skin Tone,fair,EastAsian_Male_Young,EastAsian,Male,Young,-0.6061358035703156,15,16
+Skin Tone,fair,Indian_Female_Child,Indian,Female,Child,0.6931471805599453,16,16
+Skin Tone,fair,Indian_Female_MiddleAged,Indian,Female,MiddleAged,0.9039702474861144,16,16
+Skin Tone,fair,Indian_Female_Old,Indian,Female,Old,0.4744579795951159,15,15
+Skin Tone,fair,Indian_Female_Young,Indian,Female,Young,0.33420208808667373,15,16
+Skin Tone,fair,Indian_Male_Child,Indian,Male,Child,0.675128675057267,16,16
+Skin Tone,fair,Indian_Male_MiddleAged,Indian,Male,MiddleAged,-0.2231435513142097,16,16
+Skin Tone,fair,Indian_Male_Old,Indian,Male,Old,0.0,16,16
+Skin Tone,fair,Indian_Male_Young,Indian,Male,Young,0.22314355131420976,16,16
+Skin Tone,fair,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,0.2355660713127669,15,15
+Skin Tone,fair,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,0.3566749439387324,16,15
+Skin Tone,fair,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,0.4519851237430572,16,16
+Skin Tone,fair,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,1.4074965687704935,16,16
+Skin Tone,fair,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,0.0,15,15
+Skin Tone,fair,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,0.5798184952529422,16,15
+Skin Tone,fair,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,0.6061358035703156,16,15
+Skin Tone,fair,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,0.0,16,16
+Skin Tone,fair,MiddleEastern_Female_Child,MiddleEastern,Female,Child,0.5798184952529422,16,15
+Skin Tone,fair,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,0.22314355131420976,16,16
+Skin Tone,fair,MiddleEastern_Female_Old,MiddleEastern,Female,Old,-0.22884157242884753,16,16
+Skin Tone,fair,MiddleEastern_Female_Young,MiddleEastern,Female,Young,-0.5798184952529423,15,16
+Skin Tone,fair,MiddleEastern_Male_Child,MiddleEastern,Male,Child,0.5798184952529422,16,15
+Skin Tone,fair,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,0.9039702474861144,16,16
+Skin Tone,fair,MiddleEastern_Male_Old,MiddleEastern,Male,Old,0.9628107475090479,16,14
+Skin Tone,fair,MiddleEastern_Male_Young,MiddleEastern,Male,Young,0.675128675057267,16,16
+Skin Tone,fair,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,1.0581209273133727,15,16
+Skin Tone,fair,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,0.22314355131420976,16,16
+Skin Tone,fair,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,0.0,16,16
+Skin Tone,fair,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,0.4519851237430572,16,16
+Skin Tone,fair,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,0.24116205681688804,16,16
+Skin Tone,fair,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,-1.1451323043030026,16,16
+Skin Tone,fair,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,0.0,16,16
+Skin Tone,fair,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,0.6523251860396901,16,15
+Skin Tone,fair,White_Female_Child,White,Female,Child,-0.3409265869705932,16,15
+Skin Tone,fair,White_Female_MiddleAged,White,Female,MiddleAged,-0.2231435513142097,16,16
+Skin Tone,fair,White_Female_Old,White,Female,Old,0.24116205681688804,16,16
+Skin Tone,fair,White_Female_Young,White,Female,Young,0.0,16,16
+Skin Tone,fair,White_Male_Child,White,Male,Child,0.22884157242884745,16,16
+Skin Tone,fair,White_Male_MiddleAged,White,Male,MiddleAged,0.22884157242884764,16,16
+Skin Tone,fair,White_Male_Old,White,Male,Old,0.8109302162163288,16,15
+Skin Tone,fair,White_Male_Young,White,Male,Young,-0.33420208808667373,16,15
+Skin Tone,medium,Black_Female_Child,Black,Female,Child,0.726669872598589,15,16
+Skin Tone,medium,Black_Female_MiddleAged,Black,Female,MiddleAged,-0.2231435513142097,16,16
+Skin Tone,medium,Black_Female_Old,Black,Female,Old,0.4519851237430572,16,14
+Skin Tone,medium,Black_Female_Young,Black,Female,Young,0.3829922522561057,15,16
+Skin Tone,medium,Black_Male_Child,Black,Male,Child,-0.4462871026284195,16,16
+Skin Tone,medium,Black_Male_MiddleAged,Black,Male,MiddleAged,0.9162907318741551,16,16
+Skin Tone,medium,Black_Male_Old,Black,Male,Old,0.0,16,16
+Skin Tone,medium,Black_Male_Young,Black,Male,Young,-1.1786549963416462,16,16
+Skin Tone,medium,EastAsian_Female_Child,EastAsian,Female,Child,0.5988365010887039,15,16
+Skin Tone,medium,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,0.22884157242884764,16,16
+Skin Tone,medium,EastAsian_Female_Old,EastAsian,Female,Old,-0.2231435513142097,16,14
+Skin Tone,medium,EastAsian_Female_Young,EastAsian,Female,Young,0.02817087696669644,16,14
+Skin Tone,medium,EastAsian_Male_Child,EastAsian,Male,Child,-0.6931471805599453,16,16
+Skin Tone,medium,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,-0.45198512374305727,16,16
+Skin Tone,medium,EastAsian_Male_Old,EastAsian,Male,Old,0.7323678937132266,16,16
+Skin Tone,medium,EastAsian_Male_Young,EastAsian,Male,Young,0.7884573603642703,14,14
+Skin Tone,medium,Indian_Female_Child,Indian,Female,Child,-0.4700036292457356,16,16
+Skin Tone,medium,Indian_Female_MiddleAged,Indian,Female,MiddleAged,-0.6751286750572671,16,16
+Skin Tone,medium,Indian_Female_Old,Indian,Female,Old,-0.5697681593994407,16,15
+Skin Tone,medium,Indian_Female_Young,Indian,Female,Young,-0.09531017980432477,15,16
+Skin Tone,medium,Indian_Male_Child,Indian,Male,Child,-0.13353139262452274,15,16
+Skin Tone,medium,Indian_Male_MiddleAged,Indian,Male,MiddleAged,0.44628710262841953,16,16
+Skin Tone,medium,Indian_Male_Old,Indian,Male,Old,0.3566749439387324,15,16
+Skin Tone,medium,Indian_Male_Young,Indian,Male,Young,0.13353139262452277,16,15
+Skin Tone,medium,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,0.4744579795951159,15,15
+Skin Tone,medium,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,0.6061358035703155,15,16
+Skin Tone,medium,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,-0.916290731874155,16,16
+Skin Tone,medium,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,-0.4462871026284195,16,16
+Skin Tone,medium,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,0.3566749439387324,15,16
+Skin Tone,medium,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,-0.22884157242884753,16,16
+Skin Tone,medium,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,0.10536051565782635,16,15
+Skin Tone,medium,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,-0.2288415724288474,16,16
+Skin Tone,medium,MiddleEastern_Female_Child,MiddleEastern,Female,Child,0.47000362924573563,16,16
+Skin Tone,medium,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,0.0,16,16
+Skin Tone,medium,MiddleEastern_Female_Old,MiddleEastern,Female,Old,0.33420208808667373,16,15
+Skin Tone,medium,MiddleEastern_Female_Young,MiddleEastern,Female,Young,0.5653138090500606,14,16
+Skin Tone,medium,MiddleEastern_Male_Child,MiddleEastern,Male,Child,-0.11778303565638351,16,15
+Skin Tone,medium,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,-0.2411620568168881,16,16
+Skin Tone,medium,MiddleEastern_Male_Old,MiddleEastern,Male,Old,0.251314428280906,16,14
+Skin Tone,medium,MiddleEastern_Male_Young,MiddleEastern,Male,Young,-0.2288415724288474,16,16
+Skin Tone,medium,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,-1.1786549963416462,15,16
+Skin Tone,medium,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,-0.2231435513142097,16,16
+Skin Tone,medium,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,0.675128675057267,16,16
+Skin Tone,medium,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,-0.45198512374305727,16,16
+Skin Tone,medium,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,0.22884157242884764,16,16
+Skin Tone,medium,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,0.3409265869705932,15,16
+Skin Tone,medium,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,0.6751286750572669,16,16
+Skin Tone,medium,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,-0.1823215567939546,16,15
+Skin Tone,medium,White_Female_Child,White,Female,Child,-0.4462871026284195,16,16
+Skin Tone,medium,White_Female_MiddleAged,White,Female,MiddleAged,-0.4700036292457356,16,16
+Skin Tone,medium,White_Female_Old,White,Female,Old,0.22884157242884745,16,16
+Skin Tone,medium,White_Female_Young,White,Female,Young,-0.4744579795951158,16,14
+Skin Tone,medium,White_Male_Child,White,Male,Child,-0.2231435513142097,16,16
+Skin Tone,medium,White_Male_MiddleAged,White,Male,MiddleAged,0.0,16,16
+Skin Tone,medium,White_Male_Old,White,Male,Old,0.44628710262841953,16,16
+Skin Tone,medium,White_Male_Young,White,Male,Young,0.4744579795951159,16,14
+Tattoos,facetattoo,Black_Female_Child,Black,Female,Child,0.0,8,8
+Tattoos,facetattoo,Black_Female_MiddleAged,Black,Female,MiddleAged,-1.791759469228055,8,8
+Tattoos,facetattoo,Black_Female_Old,Black,Female,Old,-0.8472978603872037,8,8
+Tattoos,facetattoo,Black_Female_Young,Black,Female,Young,-0.8472978603872037,8,8
+Tattoos,facetattoo,Black_Male_Child,Black,Male,Child,-0.6286086594223742,8,7
+Tattoos,facetattoo,Black_Male_MiddleAged,Black,Male,MiddleAged,-0.8109302162163288,8,8
+Tattoos,facetattoo,Black_Male_Old,Black,Male,Old,-0.6241543090729939,8,7
+Tattoos,facetattoo,Black_Male_Young,Black,Male,Young,0.0,8,8
+Tattoos,facetattoo,EastAsian_Female_Child,EastAsian,Female,Child,0.22314355131420976,7,8
+Tattoos,facetattoo,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,0.0,8,8
+Tattoos,facetattoo,EastAsian_Female_Old,EastAsian,Female,Old,0.8109302162163288,8,8
+Tattoos,facetattoo,EastAsian_Female_Young,EastAsian,Female,Young,0.8109302162163288,8,8
+Tattoos,facetattoo,EastAsian_Male_Child,EastAsian,Male,Child,-1.6945957207744073,8,8
+Tattoos,facetattoo,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,-1.3862943611198906,8,8
+Tattoos,facetattoo,EastAsian_Male_Old,EastAsian,Male,Old,-4.276666119016055,7,8
+Tattoos,facetattoo,EastAsian_Male_Young,EastAsian,Male,Young,-3.044522437723423,8,8
+Tattoos,facetattoo,Indian_Female_Child,Indian,Female,Child,0.0,7,7
+Tattoos,facetattoo,Indian_Female_MiddleAged,Indian,Female,MiddleAged,-1.252762968495368,8,8
+Tattoos,facetattoo,Indian_Female_Old,Indian,Female,Old,-0.40546510810816444,8,8
+Tattoos,facetattoo,Indian_Female_Young,Indian,Female,Young,0.4054651081081644,8,8
+Tattoos,facetattoo,Indian_Male_Child,Indian,Male,Child,0.0,8,8
+Tattoos,facetattoo,Indian_Male_MiddleAged,Indian,Male,MiddleAged,-1.252762968495368,7,8
+Tattoos,facetattoo,Indian_Male_Old,Indian,Male,Old,-1.252762968495368,8,8
+Tattoos,facetattoo,Indian_Male_Young,Indian,Male,Young,-2.6026896854443837,8,8
+Tattoos,facetattoo,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,0.0,8,8
+Tattoos,facetattoo,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,-0.40546510810816444,8,8
+Tattoos,facetattoo,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,0.6286086594223741,8,7
+Tattoos,facetattoo,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,0.4054651081081644,8,8
+Tattoos,facetattoo,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,-0.6286086594223742,8,7
+Tattoos,facetattoo,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,1.0296194171811581,7,7
+Tattoos,facetattoo,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,0.0,8,8
+Tattoos,facetattoo,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,-0.8109302162163288,8,8
+Tattoos,facetattoo,MiddleEastern_Female_Child,MiddleEastern,Female,Child,-0.6286086594223742,8,7
+Tattoos,facetattoo,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,-0.8109302162163288,8,8
+Tattoos,facetattoo,MiddleEastern_Female_Old,MiddleEastern,Female,Old,0.0,8,8
+Tattoos,facetattoo,MiddleEastern_Female_Young,MiddleEastern,Female,Young,0.6931471805599453,7,8
+Tattoos,facetattoo,MiddleEastern_Male_Child,MiddleEastern,Male,Child,-0.8472978603872037,8,8
+Tattoos,facetattoo,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,-1.252762968495368,8,8
+Tattoos,facetattoo,MiddleEastern_Male_Old,MiddleEastern,Male,Old,0.4054651081081644,8,8
+Tattoos,facetattoo,MiddleEastern_Male_Young,MiddleEastern,Male,Young,0.0,8,8
+Tattoos,facetattoo,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,0.6931471805599453,8,7
+Tattoos,facetattoo,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,0.0,8,8
+Tattoos,facetattoo,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,1.252762968495368,8,8
+Tattoos,facetattoo,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,-1.252762968495368,8,8
+Tattoos,facetattoo,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,1.3862943611198906,8,8
+Tattoos,facetattoo,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,-0.40546510810816444,8,8
+Tattoos,facetattoo,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,-0.40546510810816444,8,8
+Tattoos,facetattoo,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,0.4054651081081644,8,8
+Tattoos,facetattoo,White_Female_Child,White,Female,Child,-0.2231435513142097,8,7
+Tattoos,facetattoo,White_Female_MiddleAged,White,Female,MiddleAged,-1.791759469228055,8,8
+Tattoos,facetattoo,White_Female_Old,White,Female,Old,-1.4759065198095778,7,7
+Tattoos,facetattoo,White_Female_Young,White,Female,Young,-0.8109302162163288,8,8
+Tattoos,facetattoo,White_Male_Child,White,Male,Child,0.4054651081081644,8,8
+Tattoos,facetattoo,White_Male_MiddleAged,White,Male,MiddleAged,-2.4203681286504293,7,8
+Tattoos,facetattoo,White_Male_Old,White,Male,Old,-0.40546510810816444,8,8
+Tattoos,facetattoo,White_Male_Young,White,Male,Young,1.3862943611198906,8,8
+Tattoos,necktattoo,Black_Female_Child,Black,Female,Child,0.0,8,8
+Tattoos,necktattoo,Black_Female_MiddleAged,Black,Female,MiddleAged,1.791759469228055,8,8
+Tattoos,necktattoo,Black_Female_Old,Black,Female,Old,0.8472978603872037,8,8
+Tattoos,necktattoo,Black_Female_Young,Black,Female,Young,0.8472978603872037,8,8
+Tattoos,necktattoo,Black_Male_Child,Black,Male,Child,0.6286086594223741,8,7
+Tattoos,necktattoo,Black_Male_MiddleAged,Black,Male,MiddleAged,0.8109302162163288,8,8
+Tattoos,necktattoo,Black_Male_Old,Black,Male,Old,0.6241543090729939,8,7
+Tattoos,necktattoo,Black_Male_Young,Black,Male,Young,0.0,8,8
+Tattoos,necktattoo,EastAsian_Female_Child,EastAsian,Female,Child,-0.2231435513142097,7,8
+Tattoos,necktattoo,EastAsian_Female_MiddleAged,EastAsian,Female,MiddleAged,0.0,8,8
+Tattoos,necktattoo,EastAsian_Female_Old,EastAsian,Female,Old,-0.8109302162163288,8,8
+Tattoos,necktattoo,EastAsian_Female_Young,EastAsian,Female,Young,-0.8109302162163288,8,8
+Tattoos,necktattoo,EastAsian_Male_Child,EastAsian,Male,Child,1.6945957207744073,8,8
+Tattoos,necktattoo,EastAsian_Male_MiddleAged,EastAsian,Male,MiddleAged,1.3862943611198906,8,8
+Tattoos,necktattoo,EastAsian_Male_Old,EastAsian,Male,Old,4.276666119016055,7,8
+Tattoos,necktattoo,EastAsian_Male_Young,EastAsian,Male,Young,3.044522437723423,8,8
+Tattoos,necktattoo,Indian_Female_Child,Indian,Female,Child,0.0,7,7
+Tattoos,necktattoo,Indian_Female_MiddleAged,Indian,Female,MiddleAged,1.252762968495368,8,8
+Tattoos,necktattoo,Indian_Female_Old,Indian,Female,Old,0.4054651081081644,8,8
+Tattoos,necktattoo,Indian_Female_Young,Indian,Female,Young,-0.40546510810816444,8,8
+Tattoos,necktattoo,Indian_Male_Child,Indian,Male,Child,0.0,8,8
+Tattoos,necktattoo,Indian_Male_MiddleAged,Indian,Male,MiddleAged,1.252762968495368,7,8
+Tattoos,necktattoo,Indian_Male_Old,Indian,Male,Old,1.252762968495368,8,8
+Tattoos,necktattoo,Indian_Male_Young,Indian,Male,Young,2.6026896854443837,8,8
+Tattoos,necktattoo,LatinoHispanic_Female_Child,LatinoHispanic,Female,Child,0.0,8,8
+Tattoos,necktattoo,LatinoHispanic_Female_MiddleAged,LatinoHispanic,Female,MiddleAged,0.4054651081081644,8,8
+Tattoos,necktattoo,LatinoHispanic_Female_Old,LatinoHispanic,Female,Old,-0.6286086594223742,8,7
+Tattoos,necktattoo,LatinoHispanic_Female_Young,LatinoHispanic,Female,Young,-0.40546510810816444,8,8
+Tattoos,necktattoo,LatinoHispanic_Male_Child,LatinoHispanic,Male,Child,0.6286086594223741,8,7
+Tattoos,necktattoo,LatinoHispanic_Male_MiddleAged,LatinoHispanic,Male,MiddleAged,-1.0296194171811583,7,7
+Tattoos,necktattoo,LatinoHispanic_Male_Old,LatinoHispanic,Male,Old,0.0,8,8
+Tattoos,necktattoo,LatinoHispanic_Male_Young,LatinoHispanic,Male,Young,0.8109302162163288,8,8
+Tattoos,necktattoo,MiddleEastern_Female_Child,MiddleEastern,Female,Child,0.6286086594223741,8,7
+Tattoos,necktattoo,MiddleEastern_Female_MiddleAged,MiddleEastern,Female,MiddleAged,0.8109302162163288,8,8
+Tattoos,necktattoo,MiddleEastern_Female_Old,MiddleEastern,Female,Old,0.0,8,8
+Tattoos,necktattoo,MiddleEastern_Female_Young,MiddleEastern,Female,Young,-0.6931471805599453,7,8
+Tattoos,necktattoo,MiddleEastern_Male_Child,MiddleEastern,Male,Child,0.8472978603872037,8,8
+Tattoos,necktattoo,MiddleEastern_Male_MiddleAged,MiddleEastern,Male,MiddleAged,1.252762968495368,8,8
+Tattoos,necktattoo,MiddleEastern_Male_Old,MiddleEastern,Male,Old,-0.40546510810816444,8,8
+Tattoos,necktattoo,MiddleEastern_Male_Young,MiddleEastern,Male,Young,0.0,8,8
+Tattoos,necktattoo,SoutheastAsian_Female_Child,SoutheastAsian,Female,Child,-0.6931471805599453,8,7
+Tattoos,necktattoo,SoutheastAsian_Female_MiddleAged,SoutheastAsian,Female,MiddleAged,0.0,8,8
+Tattoos,necktattoo,SoutheastAsian_Female_Old,SoutheastAsian,Female,Old,-1.252762968495368,8,8
+Tattoos,necktattoo,SoutheastAsian_Female_Young,SoutheastAsian,Female,Young,1.252762968495368,8,8
+Tattoos,necktattoo,SoutheastAsian_Male_Child,SoutheastAsian,Male,Child,-1.3862943611198906,8,8
+Tattoos,necktattoo,SoutheastAsian_Male_MiddleAged,SoutheastAsian,Male,MiddleAged,0.4054651081081644,8,8
+Tattoos,necktattoo,SoutheastAsian_Male_Old,SoutheastAsian,Male,Old,0.4054651081081644,8,8
+Tattoos,necktattoo,SoutheastAsian_Male_Young,SoutheastAsian,Male,Young,-0.40546510810816444,8,8
+Tattoos,necktattoo,White_Female_Child,White,Female,Child,0.22314355131420976,8,7
+Tattoos,necktattoo,White_Female_MiddleAged,White,Female,MiddleAged,1.791759469228055,8,8
+Tattoos,necktattoo,White_Female_Old,White,Female,Old,1.4759065198095778,7,7
+Tattoos,necktattoo,White_Female_Young,White,Female,Young,0.8109302162163288,8,8
+Tattoos,necktattoo,White_Male_Child,White,Male,Child,-0.40546510810816444,8,8
+Tattoos,necktattoo,White_Male_MiddleAged,White,Male,MiddleAged,2.4203681286504293,7,8
+Tattoos,necktattoo,White_Male_Old,White,Male,Old,0.4054651081081644,8,8
+Tattoos,necktattoo,White_Male_Young,White,Male,Young,-1.3862943611198906,8,8

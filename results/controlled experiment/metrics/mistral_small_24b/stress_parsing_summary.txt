@@ -1,0 +1,8 @@
+
+==================================================
+PARSING SUMMARY (STRESS TEST)
+==================================================
+Total lines in file:               10360
+Valid responses extracted (A/B):   10358
+Failed to extract A/B from text:   2
+==================================================

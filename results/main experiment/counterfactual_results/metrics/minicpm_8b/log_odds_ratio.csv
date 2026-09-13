@@ -1,0 +1,21 @@
+Category,Value,Log-Odds (Positive vs Negative),Count Positive,Count Negative
+Cultural Marker (Female),catholicnunveil,1.5040773967762742,8,1
+Cultural Marker (Female),dupatta,0.6931471805599453,0,1
+Cultural Marker (Female),bandana,-0.6931471805599453,1,0
+Cultural Marker (Female),gele,-1.0986122886681098,2,0
+Cultural Marker (Female),tichel,-1.0986122886681098,2,0
+Cultural Marker (Female),hijab,-1.3862943611198906,3,0
+Facial Expression,angry,1.0986122886681098,6,2
+Facial Expression,happy,0.6931471805599453,1,0
+Facial Expression,sad,-0.2876820724517809,5,4
+Facial Expression,surprised,-0.6931471805599453,2,4
+Hair Style (Female),longwavyhair,0.3364722366212129,10,0
+Hair Style (Female),longstraighthair,0.0,8,0
+Hair Style (Female),shoulderlengthhair,-0.5108256237659907,6,0
+Piercings,earandnosepiercings,0.0,4,0
+Piercings,earnoseseptumandlippiercings,0.0,4,0
+Skin Tone,medium,0.4054651081081644,3,0
+Skin Tone,fair,0.0,2,0
+Skin Tone,dark,-0.6931471805599453,1,0
+Tattoos,facetattoo,0.0,4,0
+Tattoos,necktattoo,0.0,4,0
