@@ -1,3 +1,23 @@
+"""
+Purpose:
+    Constructs controlled pairs of counterfactual portraits for the
+    FACE benchmark.
+
+Description:
+    Groups counterfactual portraits by base identity and appearance attribute
+    type, then generates all pairwise combinations within each group. This
+    produces pairs with the same underlying identity and attribute type while
+    varying the specific value of that appearance attribute.
+
+Input:
+    Counterfactual portrait images from dataset/variations/.
+
+Output:
+    Controlled counterfactual image pairs saved to
+    dataset/counterfactual_image_pairs.json.
+"""
+
+
 import os
 import json
 import itertools

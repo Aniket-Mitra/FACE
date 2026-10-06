@@ -1,3 +1,24 @@
+"""
+Purpose:
+    Analyzes demographic associations and response reliability for the
+    base-portrait evaluations in the FACE benchmark.
+
+Description:
+    Combines model responses from the base-pair and cross-identity
+    counterfactual evaluations, parses A/B decisions from model outputs,
+    and groups responses into prosocial and accusatory contexts. The script
+    computes demographic selection frequencies, positive-versus-negative
+    log-odds ratios, parsing statistics, and left-right position bias.
+
+Input:
+    Model-specific JSONL inference results for base-image pairs and
+    cross-identity counterfactual pairs.
+
+Output:
+    Parsing summary, prosocial and accusatory selection-frequency tables,
+    demographic log-odds ratios, and position-bias statistics.
+"""
+
 import json
 import os
 import pandas as pd

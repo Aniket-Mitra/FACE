@@ -1,3 +1,22 @@
+"""
+Purpose:
+    Runs local VLM inference on pairs of base portraits for the FACE benchmark.
+
+Description:
+    Evaluates pairs of synthetic base portraits using the eight prosocial and
+    accusatory questions in the FACE evaluation protocol. Each image pair is
+    evaluated in both left-right arrangements to support analysis of position
+    bias and swap consistency. Inference is performed with the specified
+    locally hosted VLMs through Ollama using deterministic decoding settings.
+
+Input:
+    Base-image pairs from dataset/base_image_pairs.json.
+
+Output:
+    Model responses and pair metadata saved as model-specific JSONL files
+    for downstream parsing, reliability assessment, and bias analysis.
+"""
+
 import json
 import os
 import io

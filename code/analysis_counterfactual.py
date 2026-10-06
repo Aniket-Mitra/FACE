@@ -1,3 +1,24 @@
+"""
+Purpose:
+    Analyzes appearance-conditioned associations and response reliability
+    for counterfactual portrait evaluations in the FACE benchmark.
+
+Description:
+    Parses A/B decisions from model responses and groups the eight evaluation
+    questions into prosocial and accusatory contexts. The script extracts
+    counterfactual appearance attributes from image filenames and computes
+    attribute-level selection frequencies, positive-versus-negative log-odds
+    ratios, parsing statistics, and left-right position bias.
+
+Input:
+    Model-specific JSONL inference results for counterfactual image pairs.
+
+Output:
+    Prosocial and accusatory selection-frequency tables, appearance-attribute
+    log-odds ratios, and position-bias statistics.
+"""
+
+
 import json
 import os
 import pandas as pd

@@ -1,3 +1,24 @@
+
+"""
+Purpose:
+    Runs OpenRouter-based VLM inference on counterfactual image pairs for
+    the FACE benchmark.
+
+Description:
+    Evaluates pairs of counterfactual portraits using the eight prosocial and
+    accusatory questions in the FACE evaluation protocol. Each image pair is
+    evaluated in both left-right arrangements to support analysis of position
+    bias and swap consistency. Inference is performed with the specified VLMs
+    through the OpenRouter API using deterministic decoding settings.
+
+Input:
+    Counterfactual image pairs from dataset/counterfactual_image_pairs.json.
+
+Output:
+    Model responses and pair metadata saved as model-specific JSONL files
+    for downstream parsing, reliability assessment, and bias analysis.
+"""
+
 import json
 import os
 import io

@@ -1,3 +1,21 @@
+
+"""
+Purpose:
+    Constructs controlled pairs of base portraits for the FACE benchmark.
+
+Description:
+    Parses demographic attributes from base-image filenames and generates
+    all image pairs that differ in exactly one demographic attribute:
+    race, gender, or age. Pairs differing in more than one attribute are
+    excluded to isolate the attribute being compared.
+
+Input:
+    Base portrait images from dataset/base_images/.
+
+Output:
+    Valid base-image pairs saved to dataset/base_image_pairs.json.
+"""
+
 import os
 import json
 import itertools

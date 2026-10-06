@@ -1,3 +1,23 @@
+"""
+Purpose:
+    Generates controlled counterfactual appearance variants for the FACE benchmark.
+
+Description:
+    Edits each synthetic base portrait along predefined non-identity appearance
+    attributes using Gemini 3 Pro Image through the OpenRouter API. The edited
+    attributes include skin tone, facial expression, hairstyle, cultural markers,
+    facial hair, tattoos, and piercings. Each editing prompt instructs the model
+    to preserve the remaining facial features, pose, lighting, background, and
+    studio portrait style.
+
+Input:
+    Base portrait images from dataset/base_images/.
+
+Output:
+    Counterfactual portrait images saved to dataset/variations/.
+"""
+
+
 import os
 import time
 import json

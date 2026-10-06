@@ -1,3 +1,24 @@
+"""
+Purpose:
+    Constructs controlled cross-identity pairs of counterfactual portraits
+    for the FACE benchmark.
+
+Description:
+    Groups counterfactual portraits by the same appearance variation and
+    generates pairs whose underlying identities differ in exactly one
+    demographic attribute: race, gender, or age. This keeps the applied
+    appearance variation fixed while isolating differences in one demographic
+    attribute between the paired identities.
+
+Input:
+    Counterfactual portrait images from dataset/variations/.
+
+Output:
+    Valid cross-identity counterfactual pairs saved to
+    dataset/base_in_counterfactual_pairs.json.
+"""
+
+
 import os
 import json
 import itertools

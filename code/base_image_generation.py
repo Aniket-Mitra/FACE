@@ -1,3 +1,21 @@
+"""
+Purpose:
+    Generates the synthetic base portrait images used in the FACE benchmark.
+
+Description:
+    Creates one frontal studio-style portrait for each combination of race,
+    gender, and age defined in the benchmark. Images are generated using
+    Gemini 3 Pro Image through the OpenRouter API with a fixed portrait
+    prompt designed to standardize pose, expression, clothing, background,
+    and lighting across identities.
+
+Input:
+    Predefined race, gender, and age categories specified in this script.
+
+Output:
+    PNG base portraits saved to dataset/base_images/.
+"""
+
 import os
 import time
 import json
